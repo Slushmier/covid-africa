@@ -3,7 +3,7 @@ source('R//pull_covid_jhu_all.R')
 african_countries <- c("Algeria", "Angola", "Benin", "Botswana", "Burkina Faso",
                        "Burundi", "Cabo Verde", "Cameroon", "Cape Verde",
                        "Central African Republic", "Chad",
-                       "Congo (Brazzaville)",  "Cote d'Ivoire", 
+                       "Congo (Brazzaville)", "Congo (Kinshasa)", "Cote d'Ivoire", 
                        "Democratic Republic of the Congo", "Djibouti", "Egypt",
                        "Equatorial Guinea", "Eswatini", "Ethiopia", "Eritrea",
                        "Gabon", "Gambia", "Gambia, The", "Ghana", "Guinea",
@@ -21,6 +21,7 @@ all_reports <- all_reports %>% mutate(Country_Region = as.character(Country_Regi
                             Country_Region == "Cape Verde" ~ "Cabo Verde",
                             Country_Region ==  "Ivory Coast" ~ "Cote d'Ivoire",
                             Country_Region ==  "Congo (Brazzaville)" ~ "Republic of the Congo",
+                            Country_Region == "Congo (Kinshasa)" ~ "Democratic Republic of the Congo",
                             TRUE ~ Country_Region))
 
 africa_reports <- all_reports %>%
