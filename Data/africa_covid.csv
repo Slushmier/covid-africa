@@ -34,93 +34,52 @@ Algeria,2020-02-22,0,0,0,0
 Algeria,2020-02-23,0,0,0,0
 Algeria,2020-02-24,0,0,0,0
 Algeria,2020-02-25,1,0,0,1
-Algeria,2020-02-25,1,0,0,1
-Algeria,2020-02-26,1,0,0,1
 Algeria,2020-02-26,1,0,0,1
 Algeria,2020-02-27,1,0,0,1
-Algeria,2020-02-27,1,0,0,1
-Algeria,2020-02-28,1,0,0,1
 Algeria,2020-02-28,1,0,0,1
 Algeria,2020-02-29,1,0,0,1
-Algeria,2020-02-29,1,0,0,1
-Algeria,2020-03-01,1,0,0,1
 Algeria,2020-03-01,1,0,0,1
 Algeria,2020-03-02,3,0,0,3
-Algeria,2020-03-02,3,0,0,3
-Algeria,2020-03-03,5,0,0,5
 Algeria,2020-03-03,5,0,0,5
 Algeria,2020-03-04,12,0,0,12
-Algeria,2020-03-04,12,0,0,12
-Algeria,2020-03-05,12,0,0,12
 Algeria,2020-03-05,12,0,0,12
 Algeria,2020-03-06,17,0,0,17
-Algeria,2020-03-06,17,0,0,17
-Algeria,2020-03-07,17,0,0,17
 Algeria,2020-03-07,17,0,0,17
 Algeria,2020-03-08,19,0,0,19
-Algeria,2020-03-08,19,0,0,19
-Algeria,2020-03-09,20,0,0,20
 Algeria,2020-03-09,20,0,0,20
 Algeria,2020-03-10,20,0,0,20
-Algeria,2020-03-10,20,0,0,20
-Algeria,2020-03-11,20,0,0,20
 Algeria,2020-03-11,20,0,0,20
 Algeria,2020-03-12,24,1,8,15
-Algeria,2020-03-12,24,1,8,15
-Algeria,2020-03-13,26,2,8,16
 Algeria,2020-03-13,26,2,8,16
 Algeria,2020-03-14,37,3,12,22
-Algeria,2020-03-14,37,3,12,22
-Algeria,2020-03-15,48,4,12,32
 Algeria,2020-03-15,48,4,12,32
 Algeria,2020-03-16,54,4,12,38
-Algeria,2020-03-16,54,4,12,38
-Algeria,2020-03-17,60,4,12,44
 Algeria,2020-03-17,60,4,12,44
 Algeria,2020-03-18,74,7,12,55
-Algeria,2020-03-18,74,7,12,55
-Algeria,2020-03-19,87,9,32,46
 Algeria,2020-03-19,87,9,32,46
 Algeria,2020-03-20,90,11,32,47
-Algeria,2020-03-20,90,11,32,47
-Algeria,2020-03-21,139,15,32,92
 Algeria,2020-03-21,139,15,32,92
 Algeria,2020-03-22,201,17,65,119
-Algeria,2020-03-22,201,17,65,119
-Algeria,2020-03-23,230,17,65,148
 Algeria,2020-03-23,230,17,65,148
 Algeria,2020-03-24,264,19,24,221
-Algeria,2020-03-24,264,19,24,221
-Algeria,2020-03-25,302,21,65,216
 Algeria,2020-03-25,302,21,65,216
 Algeria,2020-03-26,367,25,29,313
-Algeria,2020-03-26,367,25,29,313
-Algeria,2020-03-27,409,26,29,354
 Algeria,2020-03-27,409,26,29,354
 Algeria,2020-03-28,454,29,31,394
-Algeria,2020-03-28,454,29,31,394
-Algeria,2020-03-29,511,31,31,449
 Algeria,2020-03-29,511,31,31,449
 Algeria,2020-03-30,584,35,37,512
-Algeria,2020-03-30,584,35,37,512
-Algeria,2020-03-31,716,44,46,626
 Algeria,2020-03-31,716,44,46,626
 Algeria,2020-04-01,847,58,61,728
-Algeria,2020-04-01,847,58,61,728
-Algeria,2020-04-02,986,86,61,839
 Algeria,2020-04-02,986,86,61,839
 Algeria,2020-04-03,1171,105,62,1004
-Algeria,2020-04-03,1171,105,62,1004
-Algeria,2020-04-04,1251,130,90,1031
 Algeria,2020-04-04,1251,130,90,1031
 Algeria,2020-04-05,1320,152,90,1078
-Algeria,2020-04-05,1320,152,90,1078
-Algeria,2020-04-06,1423,173,90,1160
 Algeria,2020-04-06,1423,173,90,1160
 Algeria,2020-04-07,1468,193,113,1162
-Algeria,2020-04-07,1468,193,113,1162
 Algeria,2020-04-08,1572,205,237,1130
-Algeria,2020-04-08,1572,205,237,1130
+Algeria,2020-04-09,1666,235,347,1084
+Algeria,2020-04-10,1761,256,405,1100
+Algeria,2020-04-11,1825,275,460,1090
 Angola,2020-01-22,0,0,0,0
 Angola,2020-01-23,0,0,0,0
 Angola,2020-01-24,0,0,0,0
@@ -180,45 +139,28 @@ Angola,2020-03-17,0,0,0,0
 Angola,2020-03-18,0,0,0,0
 Angola,2020-03-19,0,0,0,0
 Angola,2020-03-20,1,0,0,1
-Angola,2020-03-20,1,0,0,1
-Angola,2020-03-21,2,0,0,2
 Angola,2020-03-21,2,0,0,2
 Angola,2020-03-22,2,0,0,2
-Angola,2020-03-22,2,0,0,2
-Angola,2020-03-23,3,0,0,3
 Angola,2020-03-23,3,0,0,3
 Angola,2020-03-24,3,0,0,3
-Angola,2020-03-24,3,0,0,3
-Angola,2020-03-25,3,0,0,3
 Angola,2020-03-25,3,0,0,3
 Angola,2020-03-26,4,0,0,4
-Angola,2020-03-26,4,0,0,4
-Angola,2020-03-27,4,0,0,4
 Angola,2020-03-27,4,0,0,4
 Angola,2020-03-28,5,0,0,5
-Angola,2020-03-28,5,0,0,5
-Angola,2020-03-29,7,2,0,5
 Angola,2020-03-29,7,2,0,5
 Angola,2020-03-30,7,2,0,5
-Angola,2020-03-30,7,2,0,5
-Angola,2020-03-31,7,2,1,4
 Angola,2020-03-31,7,2,1,4
 Angola,2020-04-01,8,2,1,5
-Angola,2020-04-01,8,2,1,5
-Angola,2020-04-02,8,2,1,5
 Angola,2020-04-02,8,2,1,5
 Angola,2020-04-03,8,2,1,5
-Angola,2020-04-03,8,2,1,5
-Angola,2020-04-04,10,2,2,6
 Angola,2020-04-04,10,2,2,6
 Angola,2020-04-05,14,2,2,10
-Angola,2020-04-05,14,2,2,10
-Angola,2020-04-06,16,2,2,12
 Angola,2020-04-06,16,2,2,12
 Angola,2020-04-07,17,2,2,13
-Angola,2020-04-07,17,2,2,13
 Angola,2020-04-08,19,2,2,15
-Angola,2020-04-08,19,2,2,15
+Angola,2020-04-09,19,2,2,15
+Angola,2020-04-10,19,2,2,15
+Angola,2020-04-11,19,2,4,13
 Benin,2020-01-22,0,0,0,0
 Benin,2020-01-23,0,0,0,0
 Benin,2020-01-24,0,0,0,0
@@ -274,53 +216,32 @@ Benin,2020-03-13,0,0,0,0
 Benin,2020-03-14,0,0,0,0
 Benin,2020-03-15,0,0,0,0
 Benin,2020-03-16,1,0,0,1
-Benin,2020-03-16,1,0,0,1
-Benin,2020-03-17,1,0,0,1
 Benin,2020-03-17,1,0,0,1
 Benin,2020-03-18,2,0,0,2
-Benin,2020-03-18,2,0,0,2
-Benin,2020-03-19,2,0,0,2
 Benin,2020-03-19,2,0,0,2
 Benin,2020-03-20,2,0,0,2
-Benin,2020-03-20,2,0,0,2
-Benin,2020-03-21,2,0,0,2
 Benin,2020-03-21,2,0,0,2
 Benin,2020-03-22,2,0,0,2
-Benin,2020-03-22,2,0,0,2
-Benin,2020-03-23,5,0,0,5
 Benin,2020-03-23,5,0,0,5
 Benin,2020-03-24,6,0,0,6
-Benin,2020-03-24,6,0,0,6
-Benin,2020-03-25,6,0,0,6
 Benin,2020-03-25,6,0,0,6
 Benin,2020-03-26,6,0,0,6
-Benin,2020-03-26,6,0,0,6
-Benin,2020-03-27,6,0,0,6
 Benin,2020-03-27,6,0,0,6
 Benin,2020-03-28,6,0,0,6
-Benin,2020-03-28,6,0,0,6
-Benin,2020-03-29,6,0,0,6
 Benin,2020-03-29,6,0,0,6
 Benin,2020-03-30,6,0,0,6
-Benin,2020-03-30,6,0,0,6
-Benin,2020-03-31,9,0,1,8
 Benin,2020-03-31,9,0,1,8
 Benin,2020-04-01,13,0,1,12
-Benin,2020-04-01,13,0,1,12
-Benin,2020-04-02,13,0,1,12
 Benin,2020-04-02,13,0,1,12
 Benin,2020-04-03,16,0,2,14
-Benin,2020-04-03,16,0,2,14
-Benin,2020-04-04,16,0,2,14
 Benin,2020-04-04,16,0,2,14
 Benin,2020-04-05,22,0,5,17
-Benin,2020-04-05,22,0,5,17
-Benin,2020-04-06,26,1,5,20
 Benin,2020-04-06,26,1,5,20
 Benin,2020-04-07,26,1,5,20
-Benin,2020-04-07,26,1,5,20
 Benin,2020-04-08,26,1,5,20
-Benin,2020-04-08,26,1,5,20
+Benin,2020-04-09,26,1,5,20
+Benin,2020-04-10,35,1,5,29
+Benin,2020-04-11,35,1,5,29
 Botswana,2020-01-22,0,0,0,0
 Botswana,2020-01-23,0,0,0,0
 Botswana,2020-01-24,0,0,0,0
@@ -390,25 +311,18 @@ Botswana,2020-03-27,0,0,0,0
 Botswana,2020-03-28,0,0,0,0
 Botswana,2020-03-29,0,0,0,0
 Botswana,2020-03-30,3,0,0,3
-Botswana,2020-03-30,3,0,0,3
-Botswana,2020-03-31,4,1,0,3
 Botswana,2020-03-31,4,1,0,3
 Botswana,2020-04-01,4,1,0,3
-Botswana,2020-04-01,4,1,0,3
-Botswana,2020-04-02,4,1,0,3
 Botswana,2020-04-02,4,1,0,3
 Botswana,2020-04-03,4,1,0,3
-Botswana,2020-04-03,4,1,0,3
-Botswana,2020-04-04,4,1,0,3
 Botswana,2020-04-04,4,1,0,3
 Botswana,2020-04-05,6,1,0,5
-Botswana,2020-04-05,6,1,0,5
-Botswana,2020-04-06,6,1,0,5
 Botswana,2020-04-06,6,1,0,5
 Botswana,2020-04-07,6,1,0,5
-Botswana,2020-04-07,6,1,0,5
 Botswana,2020-04-08,6,1,0,5
-Botswana,2020-04-08,6,1,0,5
+Botswana,2020-04-09,13,1,0,12
+Botswana,2020-04-10,13,1,0,12
+Botswana,2020-04-11,13,1,0,12
 Burkina Faso,2020-01-22,0,0,0,0
 Burkina Faso,2020-01-23,0,0,0,0
 Burkina Faso,2020-01-24,0,0,0,0
@@ -458,65 +372,38 @@ Burkina Faso,2020-03-07,0,0,0,0
 Burkina Faso,2020-03-08,0,0,0,0
 Burkina Faso,2020-03-09,0,0,0,0
 Burkina Faso,2020-03-10,1,0,0,1
-Burkina Faso,2020-03-10,1,0,0,1
-Burkina Faso,2020-03-11,2,0,0,2
 Burkina Faso,2020-03-11,2,0,0,2
 Burkina Faso,2020-03-12,2,0,0,2
-Burkina Faso,2020-03-12,2,0,0,2
-Burkina Faso,2020-03-13,2,0,0,2
 Burkina Faso,2020-03-13,2,0,0,2
 Burkina Faso,2020-03-14,2,0,0,2
-Burkina Faso,2020-03-14,2,0,0,2
-Burkina Faso,2020-03-15,3,0,0,3
 Burkina Faso,2020-03-15,3,0,0,3
 Burkina Faso,2020-03-16,15,0,0,15
-Burkina Faso,2020-03-16,15,0,0,15
-Burkina Faso,2020-03-17,15,0,0,15
 Burkina Faso,2020-03-17,15,0,0,15
 Burkina Faso,2020-03-18,20,1,0,19
-Burkina Faso,2020-03-18,20,1,0,19
-Burkina Faso,2020-03-19,33,1,0,32
 Burkina Faso,2020-03-19,33,1,0,32
 Burkina Faso,2020-03-20,40,1,0,39
-Burkina Faso,2020-03-20,40,1,0,39
-Burkina Faso,2020-03-21,64,2,5,57
 Burkina Faso,2020-03-21,64,2,5,57
 Burkina Faso,2020-03-22,75,4,5,66
-Burkina Faso,2020-03-22,75,4,5,66
-Burkina Faso,2020-03-23,99,4,5,90
 Burkina Faso,2020-03-23,99,4,5,90
 Burkina Faso,2020-03-24,114,4,7,103
-Burkina Faso,2020-03-24,114,4,7,103
-Burkina Faso,2020-03-25,146,4,10,132
 Burkina Faso,2020-03-25,146,4,10,132
 Burkina Faso,2020-03-26,152,7,10,135
-Burkina Faso,2020-03-26,152,7,10,135
-Burkina Faso,2020-03-27,180,9,12,159
 Burkina Faso,2020-03-27,180,9,12,159
 Burkina Faso,2020-03-28,207,11,21,175
-Burkina Faso,2020-03-28,207,11,21,175
-Burkina Faso,2020-03-29,222,12,23,187
 Burkina Faso,2020-03-29,222,12,23,187
 Burkina Faso,2020-03-30,246,12,31,203
-Burkina Faso,2020-03-30,246,12,31,203
-Burkina Faso,2020-03-31,261,14,32,215
 Burkina Faso,2020-03-31,261,14,32,215
 Burkina Faso,2020-04-01,282,16,46,220
-Burkina Faso,2020-04-01,282,16,46,220
-Burkina Faso,2020-04-02,288,16,50,222
 Burkina Faso,2020-04-02,288,16,50,222
 Burkina Faso,2020-04-03,302,16,50,236
-Burkina Faso,2020-04-03,302,16,50,236
-Burkina Faso,2020-04-04,318,16,66,236
 Burkina Faso,2020-04-04,318,16,66,236
 Burkina Faso,2020-04-05,345,17,90,238
-Burkina Faso,2020-04-05,345,17,90,238
-Burkina Faso,2020-04-06,364,18,108,238
 Burkina Faso,2020-04-06,364,18,108,238
 Burkina Faso,2020-04-07,384,19,127,238
-Burkina Faso,2020-04-07,384,19,127,238
 Burkina Faso,2020-04-08,414,23,134,257
-Burkina Faso,2020-04-08,414,23,134,257
+Burkina Faso,2020-04-09,443,24,146,273
+Burkina Faso,2020-04-10,443,24,146,273
+Burkina Faso,2020-04-11,484,27,155,302
 Burundi,2020-01-22,0,0,0,0
 Burundi,2020-01-23,0,0,0,0
 Burundi,2020-01-24,0,0,0,0
@@ -587,23 +474,17 @@ Burundi,2020-03-28,0,0,0,0
 Burundi,2020-03-29,0,0,0,0
 Burundi,2020-03-30,0,0,0,0
 Burundi,2020-03-31,2,0,0,2
-Burundi,2020-03-31,2,0,0,2
-Burundi,2020-04-01,2,0,0,2
 Burundi,2020-04-01,2,0,0,2
 Burundi,2020-04-02,3,0,0,3
-Burundi,2020-04-02,3,0,0,3
-Burundi,2020-04-03,3,0,0,3
 Burundi,2020-04-03,3,0,0,3
 Burundi,2020-04-04,3,0,0,3
-Burundi,2020-04-04,3,0,0,3
-Burundi,2020-04-05,3,0,0,3
 Burundi,2020-04-05,3,0,0,3
 Burundi,2020-04-06,3,0,0,3
-Burundi,2020-04-06,3,0,0,3
-Burundi,2020-04-07,3,0,0,3
 Burundi,2020-04-07,3,0,0,3
 Burundi,2020-04-08,3,0,0,3
-Burundi,2020-04-08,3,0,0,3
+Burundi,2020-04-09,3,0,0,3
+Burundi,2020-04-10,3,0,0,3
+Burundi,2020-04-11,5,0,0,5
 Cabo Verde,2020-01-22,0,0,0,0
 Cabo Verde,2020-01-23,0,0,0,0
 Cabo Verde,2020-01-24,0,0,0,0
@@ -663,47 +544,29 @@ Cabo Verde,2020-03-17,0,0,0,0
 Cabo Verde,2020-03-18,0,0,0,0
 Cabo Verde,2020-03-19,0,0,0,0
 Cabo Verde,2020-03-20,1,0,0,1
-Cabo Verde,2020-03-20,1,0,0,1
-Cabo Verde,2020-03-21,3,0,0,3
-Cabo Verde,2020-03-21,1,0,0,1
 Cabo Verde,2020-03-21,3,0,0,3
 Cabo Verde,2020-03-21,1,0,0,1
 Cabo Verde,2020-03-22,3,0,0,3
-Cabo Verde,2020-03-22,3,0,0,3
-Cabo Verde,2020-03-23,3,0,0,3
 Cabo Verde,2020-03-23,3,0,0,3
 Cabo Verde,2020-03-24,3,1,0,2
-Cabo Verde,2020-03-24,3,1,0,2
-Cabo Verde,2020-03-25,4,1,0,3
 Cabo Verde,2020-03-25,4,1,0,3
 Cabo Verde,2020-03-26,4,1,0,3
-Cabo Verde,2020-03-26,4,1,0,3
-Cabo Verde,2020-03-27,5,1,0,4
 Cabo Verde,2020-03-27,5,1,0,4
 Cabo Verde,2020-03-28,5,1,0,4
-Cabo Verde,2020-03-28,5,1,0,4
-Cabo Verde,2020-03-29,6,1,0,5
 Cabo Verde,2020-03-29,6,1,0,5
 Cabo Verde,2020-03-30,6,1,0,5
-Cabo Verde,2020-03-30,6,1,0,5
-Cabo Verde,2020-03-31,6,1,0,5
 Cabo Verde,2020-03-31,6,1,0,5
 Cabo Verde,2020-04-01,6,1,0,5
-Cabo Verde,2020-04-01,6,1,0,5
-Cabo Verde,2020-04-02,6,1,0,5
 Cabo Verde,2020-04-02,6,1,0,5
 Cabo Verde,2020-04-03,6,1,0,5
-Cabo Verde,2020-04-03,6,1,0,5
-Cabo Verde,2020-04-04,7,1,0,6
 Cabo Verde,2020-04-04,7,1,0,6
 Cabo Verde,2020-04-05,7,1,0,6
-Cabo Verde,2020-04-05,7,1,0,6
-Cabo Verde,2020-04-06,7,1,1,5
 Cabo Verde,2020-04-06,7,1,1,5
 Cabo Verde,2020-04-07,7,1,1,5
-Cabo Verde,2020-04-07,7,1,1,5
 Cabo Verde,2020-04-08,7,1,1,5
-Cabo Verde,2020-04-08,7,1,1,5
+Cabo Verde,2020-04-09,7,1,1,5
+Cabo Verde,2020-04-10,7,1,1,5
+Cabo Verde,2020-04-11,8,1,1,6
 Cameroon,2020-01-22,0,0,0,0
 Cameroon,2020-01-23,0,0,0,0
 Cameroon,2020-01-24,0,0,0,0
@@ -749,73 +612,42 @@ Cameroon,2020-03-03,0,0,0,0
 Cameroon,2020-03-04,0,0,0,0
 Cameroon,2020-03-05,0,0,0,0
 Cameroon,2020-03-06,1,0,0,1
-Cameroon,2020-03-06,1,0,0,1
-Cameroon,2020-03-07,1,0,0,1
 Cameroon,2020-03-07,1,0,0,1
 Cameroon,2020-03-08,2,0,0,2
-Cameroon,2020-03-08,2,0,0,2
-Cameroon,2020-03-09,2,0,0,2
 Cameroon,2020-03-09,2,0,0,2
 Cameroon,2020-03-10,2,0,0,2
-Cameroon,2020-03-10,2,0,0,2
-Cameroon,2020-03-11,2,0,0,2
 Cameroon,2020-03-11,2,0,0,2
 Cameroon,2020-03-12,2,0,0,2
-Cameroon,2020-03-12,2,0,0,2
-Cameroon,2020-03-13,2,0,0,2
 Cameroon,2020-03-13,2,0,0,2
 Cameroon,2020-03-14,2,0,0,2
-Cameroon,2020-03-14,2,0,0,2
-Cameroon,2020-03-15,2,0,0,2
 Cameroon,2020-03-15,2,0,0,2
 Cameroon,2020-03-16,4,0,0,4
-Cameroon,2020-03-16,4,0,0,4
-Cameroon,2020-03-17,10,0,0,10
 Cameroon,2020-03-17,10,0,0,10
 Cameroon,2020-03-18,10,0,0,10
-Cameroon,2020-03-18,10,0,0,10
-Cameroon,2020-03-19,13,0,0,13
 Cameroon,2020-03-19,13,0,0,13
 Cameroon,2020-03-20,20,0,0,20
-Cameroon,2020-03-20,20,0,0,20
-Cameroon,2020-03-21,27,0,0,27
 Cameroon,2020-03-21,27,0,0,27
 Cameroon,2020-03-22,40,0,2,38
-Cameroon,2020-03-22,40,0,2,38
-Cameroon,2020-03-23,56,0,2,54
 Cameroon,2020-03-23,56,0,2,54
 Cameroon,2020-03-24,66,0,2,64
-Cameroon,2020-03-24,66,0,2,64
-Cameroon,2020-03-25,75,1,2,72
 Cameroon,2020-03-25,75,1,2,72
 Cameroon,2020-03-26,75,1,2,72
-Cameroon,2020-03-26,75,1,2,72
-Cameroon,2020-03-27,91,2,2,87
 Cameroon,2020-03-27,91,2,2,87
 Cameroon,2020-03-28,91,2,2,87
-Cameroon,2020-03-28,91,2,2,87
-Cameroon,2020-03-29,139,6,5,128
 Cameroon,2020-03-29,139,6,5,128
 Cameroon,2020-03-30,139,6,5,128
-Cameroon,2020-03-30,139,6,5,128
-Cameroon,2020-03-31,193,6,5,182
 Cameroon,2020-03-31,193,6,5,182
 Cameroon,2020-04-01,233,6,10,217
-Cameroon,2020-04-01,233,6,10,217
-Cameroon,2020-04-02,306,7,10,289
 Cameroon,2020-04-02,306,7,10,289
 Cameroon,2020-04-03,509,8,17,484
-Cameroon,2020-04-03,509,8,17,484
-Cameroon,2020-04-04,555,9,17,529
 Cameroon,2020-04-04,555,9,17,529
 Cameroon,2020-04-05,650,9,17,624
-Cameroon,2020-04-05,650,9,17,624
-Cameroon,2020-04-06,658,9,17,632
 Cameroon,2020-04-06,658,9,17,632
 Cameroon,2020-04-07,658,9,43,606
-Cameroon,2020-04-07,658,9,43,606
 Cameroon,2020-04-08,730,10,60,660
-Cameroon,2020-04-08,730,10,60,660
+Cameroon,2020-04-09,730,10,60,660
+Cameroon,2020-04-10,820,12,98,710
+Cameroon,2020-04-11,820,12,98,710
 Central African Republic,2020-01-22,0,0,0,0
 Central African Republic,2020-01-23,0,0,0,0
 Central African Republic,2020-01-24,0,0,0,0
@@ -870,55 +702,33 @@ Central African Republic,2020-03-12,0,0,0,0
 Central African Republic,2020-03-13,0,0,0,0
 Central African Republic,2020-03-14,0,0,0,0
 Central African Republic,2020-03-15,1,0,0,1
-Central African Republic,2020-03-15,1,0,0,1
-Central African Republic,2020-03-16,1,0,0,1
 Central African Republic,2020-03-16,1,0,0,1
 Central African Republic,2020-03-17,1,0,0,1
-Central African Republic,2020-03-17,1,0,0,1
-Central African Republic,2020-03-18,1,0,0,1
 Central African Republic,2020-03-18,1,0,0,1
 Central African Republic,2020-03-19,1,0,0,1
-Central African Republic,2020-03-19,1,0,0,1
-Central African Republic,2020-03-20,3,0,0,3
 Central African Republic,2020-03-20,3,0,0,3
 Central African Republic,2020-03-21,3,0,0,3
-Central African Republic,2020-03-21,3,0,0,3
-Central African Republic,2020-03-22,3,0,0,3
 Central African Republic,2020-03-22,3,0,0,3
 Central African Republic,2020-03-23,3,0,0,3
-Central African Republic,2020-03-23,3,0,0,3
-Central African Republic,2020-03-24,3,0,0,3
 Central African Republic,2020-03-24,3,0,0,3
 Central African Republic,2020-03-25,3,0,0,3
-Central African Republic,2020-03-25,3,0,0,3
-Central African Republic,2020-03-26,3,0,0,3
 Central African Republic,2020-03-26,3,0,0,3
 Central African Republic,2020-03-27,3,0,0,3
-Central African Republic,2020-03-27,3,0,0,3
-Central African Republic,2020-03-28,3,0,0,3
 Central African Republic,2020-03-28,3,0,0,3
 Central African Republic,2020-03-29,3,0,0,3
-Central African Republic,2020-03-29,3,0,0,3
-Central African Republic,2020-03-30,3,0,0,3
 Central African Republic,2020-03-30,3,0,0,3
 Central African Republic,2020-03-31,3,0,0,3
-Central African Republic,2020-03-31,3,0,0,3
-Central African Republic,2020-04-01,3,0,0,3
 Central African Republic,2020-04-01,3,0,0,3
 Central African Republic,2020-04-02,3,0,0,3
-Central African Republic,2020-04-02,3,0,0,3
-Central African Republic,2020-04-03,8,0,0,8
 Central African Republic,2020-04-03,8,0,0,8
 Central African Republic,2020-04-04,8,0,0,8
-Central African Republic,2020-04-04,8,0,0,8
-Central African Republic,2020-04-05,8,0,0,8
 Central African Republic,2020-04-05,8,0,0,8
 Central African Republic,2020-04-06,8,0,0,8
-Central African Republic,2020-04-06,8,0,0,8
-Central African Republic,2020-04-07,8,0,0,8
 Central African Republic,2020-04-07,8,0,0,8
 Central African Republic,2020-04-08,8,0,0,8
-Central African Republic,2020-04-08,8,0,0,8
+Central African Republic,2020-04-09,8,0,0,8
+Central African Republic,2020-04-10,8,0,0,8
+Central African Republic,2020-04-11,8,0,0,8
 Chad,2020-01-22,0,0,0,0
 Chad,2020-01-23,0,0,0,0
 Chad,2020-01-24,0,0,0,0
@@ -977,53 +787,34 @@ Chad,2020-03-16,0,0,0,0
 Chad,2020-03-17,0,0,0,0
 Chad,2020-03-18,0,0,0,0
 Chad,2020-03-19,1,0,0,1
-Chad,2020-03-19,1,0,0,1
-Chad,2020-03-20,1,0,0,1
 Chad,2020-03-20,1,0,0,1
 Chad,2020-03-21,1,0,0,1
-Chad,2020-03-21,1,0,0,1
-Chad,2020-03-22,1,0,0,1
 Chad,2020-03-22,1,0,0,1
 Chad,2020-03-23,1,0,0,1
-Chad,2020-03-23,1,0,0,1
-Chad,2020-03-24,3,0,0,3
 Chad,2020-03-24,3,0,0,3
 Chad,2020-03-25,3,0,0,3
-Chad,2020-03-25,3,0,0,3
-Chad,2020-03-26,3,0,0,3
 Chad,2020-03-26,3,0,0,3
 Chad,2020-03-27,3,0,0,3
-Chad,2020-03-27,3,0,0,3
-Chad,2020-03-28,3,0,0,3
 Chad,2020-03-28,3,0,0,3
 Chad,2020-03-29,3,0,0,3
-Chad,2020-03-29,3,0,0,3
-Chad,2020-03-30,5,0,0,5
 Chad,2020-03-30,5,0,0,5
 Chad,2020-03-31,7,0,0,7
-Chad,2020-03-31,7,0,0,7
-Chad,2020-04-01,7,0,0,7
 Chad,2020-04-01,7,0,0,7
 Chad,2020-04-02,8,0,0,8
-Chad,2020-04-02,8,0,0,8
-Chad,2020-04-03,8,0,0,8
 Chad,2020-04-03,8,0,0,8
 Chad,2020-04-04,9,0,0,9
-Chad,2020-04-04,9,0,0,9
-Chad,2020-04-05,9,0,0,9
 Chad,2020-04-05,9,0,0,9
 Chad,2020-04-06,9,0,0,9
-Chad,2020-04-06,9,0,0,9
-Chad,2020-04-07,10,0,2,8
 Chad,2020-04-07,10,0,2,8
 Chad,2020-04-08,10,0,2,8
-Chad,2020-04-08,10,0,2,8
+Chad,2020-04-09,11,0,2,9
+Chad,2020-04-10,11,0,2,9
+Chad,2020-04-11,11,0,2,9
 Cote d'Ivoire,2020-01-22,0,0,0,0
 Cote d'Ivoire,2020-01-23,0,0,0,0
 Cote d'Ivoire,2020-01-24,0,0,0,0
 Cote d'Ivoire,2020-01-25,0,0,0,0
 Cote d'Ivoire,2020-01-26,0,0,0,0
-Cote d'Ivoire,2020-01-27,1,0,0,1
 Cote d'Ivoire,2020-01-27,1,0,0,1
 Cote d'Ivoire,2020-01-28,0,0,0,0
 Cote d'Ivoire,2020-01-29,0,0,0,0
@@ -1069,63 +860,37 @@ Cote d'Ivoire,2020-03-08,0,0,0,0
 Cote d'Ivoire,2020-03-09,0,0,0,0
 Cote d'Ivoire,2020-03-10,0,0,0,0
 Cote d'Ivoire,2020-03-11,1,0,0,1
-Cote d'Ivoire,2020-03-11,1,0,0,1
-Cote d'Ivoire,2020-03-12,1,0,0,1
 Cote d'Ivoire,2020-03-12,1,0,0,1
 Cote d'Ivoire,2020-03-13,1,0,0,1
-Cote d'Ivoire,2020-03-13,1,0,0,1
-Cote d'Ivoire,2020-03-14,1,0,0,1
 Cote d'Ivoire,2020-03-14,1,0,0,1
 Cote d'Ivoire,2020-03-15,1,0,0,1
-Cote d'Ivoire,2020-03-15,1,0,0,1
-Cote d'Ivoire,2020-03-16,1,0,0,1
 Cote d'Ivoire,2020-03-16,1,0,0,1
 Cote d'Ivoire,2020-03-17,5,0,1,4
-Cote d'Ivoire,2020-03-17,5,0,1,4
-Cote d'Ivoire,2020-03-18,6,0,1,5
 Cote d'Ivoire,2020-03-18,6,0,1,5
 Cote d'Ivoire,2020-03-19,9,0,1,8
-Cote d'Ivoire,2020-03-19,9,0,1,8
-Cote d'Ivoire,2020-03-20,9,0,1,8
 Cote d'Ivoire,2020-03-20,9,0,1,8
 Cote d'Ivoire,2020-03-21,14,0,1,13
-Cote d'Ivoire,2020-03-21,14,0,1,13
-Cote d'Ivoire,2020-03-22,14,0,1,13
 Cote d'Ivoire,2020-03-22,14,0,1,13
 Cote d'Ivoire,2020-03-23,25,0,2,23
-Cote d'Ivoire,2020-03-23,25,0,2,23
-Cote d'Ivoire,2020-03-24,73,0,2,71
 Cote d'Ivoire,2020-03-24,73,0,2,71
 Cote d'Ivoire,2020-03-25,80,0,3,77
-Cote d'Ivoire,2020-03-25,80,0,3,77
-Cote d'Ivoire,2020-03-26,96,0,3,93
 Cote d'Ivoire,2020-03-26,96,0,3,93
 Cote d'Ivoire,2020-03-27,101,0,3,98
-Cote d'Ivoire,2020-03-27,101,0,3,98
-Cote d'Ivoire,2020-03-28,101,0,3,98
 Cote d'Ivoire,2020-03-28,101,0,3,98
 Cote d'Ivoire,2020-03-29,165,1,4,160
-Cote d'Ivoire,2020-03-29,165,1,4,160
-Cote d'Ivoire,2020-03-30,168,1,6,161
 Cote d'Ivoire,2020-03-30,168,1,6,161
 Cote d'Ivoire,2020-03-31,179,1,7,171
-Cote d'Ivoire,2020-03-31,179,1,7,171
-Cote d'Ivoire,2020-04-01,190,1,9,180
 Cote d'Ivoire,2020-04-01,190,1,9,180
 Cote d'Ivoire,2020-04-02,194,1,15,178
-Cote d'Ivoire,2020-04-02,194,1,15,178
-Cote d'Ivoire,2020-04-03,218,1,19,198
 Cote d'Ivoire,2020-04-03,218,1,19,198
 Cote d'Ivoire,2020-04-04,245,1,25,219
-Cote d'Ivoire,2020-04-04,245,1,25,219
-Cote d'Ivoire,2020-04-05,261,3,37,221
 Cote d'Ivoire,2020-04-05,261,3,37,221
 Cote d'Ivoire,2020-04-06,323,3,41,279
-Cote d'Ivoire,2020-04-06,323,3,41,279
-Cote d'Ivoire,2020-04-07,349,3,41,305
 Cote d'Ivoire,2020-04-07,349,3,41,305
 Cote d'Ivoire,2020-04-08,384,3,48,333
-Cote d'Ivoire,2020-04-08,384,3,48,333
+Cote d'Ivoire,2020-04-09,444,3,52,389
+Cote d'Ivoire,2020-04-10,444,3,52,389
+Cote d'Ivoire,2020-04-11,533,4,58,471
 Democratic Republic of the Congo,2020-01-22,0,0,0,0
 Democratic Republic of the Congo,2020-01-23,0,0,0,0
 Democratic Republic of the Congo,2020-01-24,0,0,0,0
@@ -1176,63 +941,37 @@ Democratic Republic of the Congo,2020-03-08,0,0,0,0
 Democratic Republic of the Congo,2020-03-09,0,0,0,0
 Democratic Republic of the Congo,2020-03-10,0,0,0,0
 Democratic Republic of the Congo,2020-03-11,1,0,0,1
-Democratic Republic of the Congo,2020-03-11,1,0,0,1
-Democratic Republic of the Congo,2020-03-12,1,0,0,1
 Democratic Republic of the Congo,2020-03-12,1,0,0,1
 Democratic Republic of the Congo,2020-03-13,2,0,0,2
-Democratic Republic of the Congo,2020-03-13,2,0,0,2
-Democratic Republic of the Congo,2020-03-14,2,0,0,2
 Democratic Republic of the Congo,2020-03-14,2,0,0,2
 Democratic Republic of the Congo,2020-03-15,2,0,0,2
-Democratic Republic of the Congo,2020-03-15,2,0,0,2
-Democratic Republic of the Congo,2020-03-16,2,0,0,2
 Democratic Republic of the Congo,2020-03-16,2,0,0,2
 Democratic Republic of the Congo,2020-03-17,3,0,0,3
-Democratic Republic of the Congo,2020-03-17,3,0,0,3
-Democratic Republic of the Congo,2020-03-18,4,0,0,4
 Democratic Republic of the Congo,2020-03-18,4,0,0,4
 Democratic Republic of the Congo,2020-03-19,14,0,0,14
-Democratic Republic of the Congo,2020-03-19,14,0,0,14
-Democratic Republic of the Congo,2020-03-20,18,0,0,18
 Democratic Republic of the Congo,2020-03-20,18,0,0,18
 Democratic Republic of the Congo,2020-03-21,23,1,0,22
-Democratic Republic of the Congo,2020-03-21,23,1,0,22
-Democratic Republic of the Congo,2020-03-22,30,1,0,29
 Democratic Republic of the Congo,2020-03-22,30,1,0,29
 Democratic Republic of the Congo,2020-03-23,36,1,0,35
-Democratic Republic of the Congo,2020-03-23,36,1,0,35
-Democratic Republic of the Congo,2020-03-24,45,2,0,43
 Democratic Republic of the Congo,2020-03-24,45,2,0,43
 Democratic Republic of the Congo,2020-03-25,48,2,0,46
-Democratic Republic of the Congo,2020-03-25,48,2,0,46
-Democratic Republic of the Congo,2020-03-26,51,3,0,48
 Democratic Republic of the Congo,2020-03-26,51,3,0,48
 Democratic Republic of the Congo,2020-03-27,51,3,2,46
-Democratic Republic of the Congo,2020-03-27,51,3,2,46
-Democratic Republic of the Congo,2020-03-28,65,6,2,57
 Democratic Republic of the Congo,2020-03-28,65,6,2,57
 Democratic Republic of the Congo,2020-03-29,65,6,2,57
-Democratic Republic of the Congo,2020-03-29,65,6,2,57
-Democratic Republic of the Congo,2020-03-30,81,8,2,71
 Democratic Republic of the Congo,2020-03-30,81,8,2,71
 Democratic Republic of the Congo,2020-03-31,98,8,2,88
-Democratic Republic of the Congo,2020-03-31,98,8,2,88
-Democratic Republic of the Congo,2020-04-01,109,9,3,97
 Democratic Republic of the Congo,2020-04-01,109,9,3,97
 Democratic Republic of the Congo,2020-04-02,134,13,3,118
-Democratic Republic of the Congo,2020-04-02,134,13,3,118
-Democratic Republic of the Congo,2020-04-03,134,13,3,118
 Democratic Republic of the Congo,2020-04-03,134,13,3,118
 Democratic Republic of the Congo,2020-04-04,154,18,3,133
-Democratic Republic of the Congo,2020-04-04,154,18,3,133
-Democratic Republic of the Congo,2020-04-05,154,18,3,133
 Democratic Republic of the Congo,2020-04-05,154,18,3,133
 Democratic Republic of the Congo,2020-04-06,161,18,5,138
-Democratic Republic of the Congo,2020-04-06,161,18,5,138
-Democratic Republic of the Congo,2020-04-07,180,18,9,153
 Democratic Republic of the Congo,2020-04-07,180,18,9,153
 Democratic Republic of the Congo,2020-04-08,180,18,9,153
-Democratic Republic of the Congo,2020-04-08,180,18,9,153
+Democratic Republic of the Congo,2020-04-09,180,18,9,153
+Democratic Republic of the Congo,2020-04-10,215,20,13,182
+Democratic Republic of the Congo,2020-04-11,223,20,16,187
 Djibouti,2020-01-22,0,0,0,0
 Djibouti,2020-01-23,0,0,0,0
 Djibouti,2020-01-24,0,0,0,0
@@ -1290,49 +1029,30 @@ Djibouti,2020-03-15,0,0,0,0
 Djibouti,2020-03-16,0,0,0,0
 Djibouti,2020-03-17,0,0,0,0
 Djibouti,2020-03-18,1,0,0,1
-Djibouti,2020-03-18,1,0,0,1
-Djibouti,2020-03-19,1,0,0,1
 Djibouti,2020-03-19,1,0,0,1
 Djibouti,2020-03-20,1,0,0,1
-Djibouti,2020-03-20,1,0,0,1
-Djibouti,2020-03-21,1,0,0,1
 Djibouti,2020-03-21,1,0,0,1
 Djibouti,2020-03-22,1,0,0,1
-Djibouti,2020-03-22,1,0,0,1
-Djibouti,2020-03-23,3,0,0,3
 Djibouti,2020-03-23,3,0,0,3
 Djibouti,2020-03-24,3,0,0,3
-Djibouti,2020-03-24,3,0,0,3
-Djibouti,2020-03-25,11,0,0,11
 Djibouti,2020-03-25,11,0,0,11
 Djibouti,2020-03-26,11,0,0,11
-Djibouti,2020-03-26,11,0,0,11
-Djibouti,2020-03-27,12,0,0,12
 Djibouti,2020-03-27,12,0,0,12
 Djibouti,2020-03-28,14,0,0,14
-Djibouti,2020-03-28,14,0,0,14
-Djibouti,2020-03-29,18,0,0,18
 Djibouti,2020-03-29,18,0,0,18
 Djibouti,2020-03-30,18,0,0,18
-Djibouti,2020-03-30,18,0,0,18
-Djibouti,2020-03-31,30,0,0,30
 Djibouti,2020-03-31,30,0,0,30
 Djibouti,2020-04-01,33,0,0,33
-Djibouti,2020-04-01,33,0,0,33
-Djibouti,2020-04-02,40,0,0,40
 Djibouti,2020-04-02,40,0,0,40
 Djibouti,2020-04-03,49,0,8,41
-Djibouti,2020-04-03,49,0,8,41
-Djibouti,2020-04-04,50,0,8,42
 Djibouti,2020-04-04,50,0,8,42
 Djibouti,2020-04-05,59,0,9,50
-Djibouti,2020-04-05,59,0,9,50
-Djibouti,2020-04-06,90,0,9,81
 Djibouti,2020-04-06,90,0,9,81
 Djibouti,2020-04-07,90,0,9,81
-Djibouti,2020-04-07,90,0,9,81
 Djibouti,2020-04-08,135,0,25,110
-Djibouti,2020-04-08,135,0,25,110
+Djibouti,2020-04-09,135,0,25,110
+Djibouti,2020-04-10,150,1,36,113
+Djibouti,2020-04-11,187,2,36,149
 Egypt,2020-01-22,0,0,0,0
 Egypt,2020-01-23,0,0,0,0
 Egypt,2020-01-24,0,0,0,0
@@ -1357,115 +1077,63 @@ Egypt,2020-02-11,0,0,0,0
 Egypt,2020-02-12,0,0,0,0
 Egypt,2020-02-13,0,0,0,0
 Egypt,2020-02-14,1,0,0,1
-Egypt,2020-02-14,1,0,0,1
-Egypt,2020-02-15,1,0,0,1
 Egypt,2020-02-15,1,0,0,1
 Egypt,2020-02-16,1,0,0,1
-Egypt,2020-02-16,1,0,0,1
-Egypt,2020-02-17,1,0,0,1
 Egypt,2020-02-17,1,0,0,1
 Egypt,2020-02-18,1,0,0,1
-Egypt,2020-02-18,1,0,0,1
-Egypt,2020-02-19,1,0,0,1
 Egypt,2020-02-19,1,0,0,1
 Egypt,2020-02-20,1,0,0,1
-Egypt,2020-02-20,1,0,0,1
-Egypt,2020-02-21,1,0,0,1
 Egypt,2020-02-21,1,0,0,1
 Egypt,2020-02-22,1,0,0,1
-Egypt,2020-02-22,1,0,0,1
-Egypt,2020-02-23,1,0,0,1
 Egypt,2020-02-23,1,0,0,1
 Egypt,2020-02-24,1,0,0,1
-Egypt,2020-02-24,1,0,0,1
-Egypt,2020-02-25,1,0,0,1
 Egypt,2020-02-25,1,0,0,1
 Egypt,2020-02-26,1,0,0,1
-Egypt,2020-02-26,1,0,0,1
-Egypt,2020-02-27,1,0,0,1
 Egypt,2020-02-27,1,0,0,1
 Egypt,2020-02-28,1,0,1,0
-Egypt,2020-02-28,1,0,1,0
-Egypt,2020-02-29,1,0,1,0
 Egypt,2020-02-29,1,0,1,0
 Egypt,2020-03-01,2,0,1,1
-Egypt,2020-03-01,2,0,1,1
-Egypt,2020-03-02,2,0,1,1
 Egypt,2020-03-02,2,0,1,1
 Egypt,2020-03-03,2,0,1,1
-Egypt,2020-03-03,2,0,1,1
-Egypt,2020-03-04,2,0,1,1
 Egypt,2020-03-04,2,0,1,1
 Egypt,2020-03-05,3,0,1,2
-Egypt,2020-03-05,3,0,1,2
-Egypt,2020-03-06,15,0,1,14
 Egypt,2020-03-06,15,0,1,14
 Egypt,2020-03-07,15,0,1,14
-Egypt,2020-03-07,15,0,1,14
-Egypt,2020-03-08,49,1,1,47
 Egypt,2020-03-08,49,1,1,47
 Egypt,2020-03-09,55,1,12,42
-Egypt,2020-03-09,55,1,12,42
-Egypt,2020-03-10,59,1,1,57
 Egypt,2020-03-10,59,1,1,57
 Egypt,2020-03-11,60,1,27,32
-Egypt,2020-03-11,60,1,27,32
-Egypt,2020-03-12,67,1,27,39
 Egypt,2020-03-12,67,1,27,39
 Egypt,2020-03-13,80,2,27,51
-Egypt,2020-03-13,80,2,27,51
-Egypt,2020-03-14,109,2,27,80
 Egypt,2020-03-14,109,2,27,80
 Egypt,2020-03-15,110,2,21,87
-Egypt,2020-03-15,110,2,21,87
-Egypt,2020-03-16,150,2,27,121
 Egypt,2020-03-16,150,2,27,121
 Egypt,2020-03-17,196,4,32,160
-Egypt,2020-03-17,196,4,32,160
-Egypt,2020-03-18,196,6,32,158
 Egypt,2020-03-18,196,6,32,158
 Egypt,2020-03-19,256,6,32,218
-Egypt,2020-03-19,256,6,32,218
-Egypt,2020-03-20,285,8,39,238
 Egypt,2020-03-20,285,8,39,238
 Egypt,2020-03-21,294,10,41,243
-Egypt,2020-03-21,294,10,41,243
-Egypt,2020-03-22,327,14,56,257
 Egypt,2020-03-22,327,14,56,257
 Egypt,2020-03-23,366,19,68,279
-Egypt,2020-03-23,366,19,68,279
-Egypt,2020-03-24,402,20,80,302
 Egypt,2020-03-24,402,20,80,302
 Egypt,2020-03-25,456,21,95,340
-Egypt,2020-03-25,456,21,95,340
-Egypt,2020-03-26,495,24,102,369
 Egypt,2020-03-26,495,24,102,369
 Egypt,2020-03-27,536,30,116,390
-Egypt,2020-03-27,536,30,116,390
-Egypt,2020-03-28,576,36,121,419
 Egypt,2020-03-28,576,36,121,419
 Egypt,2020-03-29,609,40,132,437
-Egypt,2020-03-29,609,40,132,437
-Egypt,2020-03-30,656,41,150,465
 Egypt,2020-03-30,656,41,150,465
 Egypt,2020-03-31,710,46,157,507
-Egypt,2020-03-31,710,46,157,507
-Egypt,2020-04-01,779,52,179,548
 Egypt,2020-04-01,779,52,179,548
 Egypt,2020-04-02,865,58,201,606
-Egypt,2020-04-02,865,58,201,606
-Egypt,2020-04-03,985,66,216,703
 Egypt,2020-04-03,985,66,216,703
 Egypt,2020-04-04,1070,71,241,758
-Egypt,2020-04-04,1070,71,241,758
-Egypt,2020-04-05,1173,78,247,848
 Egypt,2020-04-05,1173,78,247,848
 Egypt,2020-04-06,1322,85,259,978
-Egypt,2020-04-06,1322,85,259,978
-Egypt,2020-04-07,1450,94,276,1080
 Egypt,2020-04-07,1450,94,276,1080
 Egypt,2020-04-08,1560,103,305,1152
-Egypt,2020-04-08,1560,103,305,1152
+Egypt,2020-04-09,1699,118,348,1233
+Egypt,2020-04-10,1794,135,384,1275
+Egypt,2020-04-11,1939,146,426,1367
 Equatorial Guinea,2020-01-22,0,0,0,0
 Equatorial Guinea,2020-01-23,0,0,0,0
 Equatorial Guinea,2020-01-24,0,0,0,0
@@ -1520,55 +1188,33 @@ Equatorial Guinea,2020-03-12,0,0,0,0
 Equatorial Guinea,2020-03-13,0,0,0,0
 Equatorial Guinea,2020-03-14,0,0,0,0
 Equatorial Guinea,2020-03-15,1,0,0,1
-Equatorial Guinea,2020-03-15,1,0,0,1
-Equatorial Guinea,2020-03-16,1,0,0,1
 Equatorial Guinea,2020-03-16,1,0,0,1
 Equatorial Guinea,2020-03-17,1,0,0,1
-Equatorial Guinea,2020-03-17,1,0,0,1
-Equatorial Guinea,2020-03-18,4,0,0,4
 Equatorial Guinea,2020-03-18,4,0,0,4
 Equatorial Guinea,2020-03-19,6,0,0,6
-Equatorial Guinea,2020-03-19,6,0,0,6
-Equatorial Guinea,2020-03-20,6,0,0,6
 Equatorial Guinea,2020-03-20,6,0,0,6
 Equatorial Guinea,2020-03-21,6,0,0,6
-Equatorial Guinea,2020-03-21,6,0,0,6
-Equatorial Guinea,2020-03-22,6,0,0,6
 Equatorial Guinea,2020-03-22,6,0,0,6
 Equatorial Guinea,2020-03-23,9,0,0,9
-Equatorial Guinea,2020-03-23,9,0,0,9
-Equatorial Guinea,2020-03-24,9,0,0,9
 Equatorial Guinea,2020-03-24,9,0,0,9
 Equatorial Guinea,2020-03-25,9,0,0,9
-Equatorial Guinea,2020-03-25,9,0,0,9
-Equatorial Guinea,2020-03-26,12,0,0,12
 Equatorial Guinea,2020-03-26,12,0,0,12
 Equatorial Guinea,2020-03-27,12,0,0,12
-Equatorial Guinea,2020-03-27,12,0,0,12
-Equatorial Guinea,2020-03-28,12,0,0,12
 Equatorial Guinea,2020-03-28,12,0,0,12
 Equatorial Guinea,2020-03-29,12,0,0,12
-Equatorial Guinea,2020-03-29,12,0,0,12
-Equatorial Guinea,2020-03-30,12,0,0,12
 Equatorial Guinea,2020-03-30,12,0,0,12
 Equatorial Guinea,2020-03-31,12,0,1,11
-Equatorial Guinea,2020-03-31,12,0,1,11
-Equatorial Guinea,2020-04-01,15,0,1,14
 Equatorial Guinea,2020-04-01,15,0,1,14
 Equatorial Guinea,2020-04-02,15,0,1,14
-Equatorial Guinea,2020-04-02,15,0,1,14
-Equatorial Guinea,2020-04-03,16,0,1,15
 Equatorial Guinea,2020-04-03,16,0,1,15
 Equatorial Guinea,2020-04-04,16,0,1,15
-Equatorial Guinea,2020-04-04,16,0,1,15
-Equatorial Guinea,2020-04-05,16,0,1,15
 Equatorial Guinea,2020-04-05,16,0,1,15
 Equatorial Guinea,2020-04-06,16,0,3,13
-Equatorial Guinea,2020-04-06,16,0,3,13
-Equatorial Guinea,2020-04-07,16,0,3,13
 Equatorial Guinea,2020-04-07,16,0,3,13
 Equatorial Guinea,2020-04-08,18,0,3,15
-Equatorial Guinea,2020-04-08,18,0,3,15
+Equatorial Guinea,2020-04-09,18,0,3,15
+Equatorial Guinea,2020-04-10,18,0,3,15
+Equatorial Guinea,2020-04-11,18,0,3,15
 Eritrea,2020-01-22,0,0,0,0
 Eritrea,2020-01-23,0,0,0,0
 Eritrea,2020-01-24,0,0,0,0
@@ -1629,43 +1275,27 @@ Eritrea,2020-03-18,0,0,0,0
 Eritrea,2020-03-19,0,0,0,0
 Eritrea,2020-03-20,0,0,0,0
 Eritrea,2020-03-21,1,0,0,1
-Eritrea,2020-03-21,1,0,0,1
-Eritrea,2020-03-22,1,0,0,1
 Eritrea,2020-03-22,1,0,0,1
 Eritrea,2020-03-23,1,0,0,1
-Eritrea,2020-03-23,1,0,0,1
-Eritrea,2020-03-24,1,0,0,1
 Eritrea,2020-03-24,1,0,0,1
 Eritrea,2020-03-25,4,0,0,4
-Eritrea,2020-03-25,4,0,0,4
-Eritrea,2020-03-26,6,0,0,6
 Eritrea,2020-03-26,6,0,0,6
 Eritrea,2020-03-27,6,0,0,6
-Eritrea,2020-03-27,6,0,0,6
-Eritrea,2020-03-28,6,0,0,6
 Eritrea,2020-03-28,6,0,0,6
 Eritrea,2020-03-29,12,0,0,12
-Eritrea,2020-03-29,12,0,0,12
-Eritrea,2020-03-30,12,0,0,12
 Eritrea,2020-03-30,12,0,0,12
 Eritrea,2020-03-31,15,0,0,15
-Eritrea,2020-03-31,15,0,0,15
-Eritrea,2020-04-01,15,0,0,15
 Eritrea,2020-04-01,15,0,0,15
 Eritrea,2020-04-02,22,0,0,22
-Eritrea,2020-04-02,22,0,0,22
-Eritrea,2020-04-03,22,0,0,22
 Eritrea,2020-04-03,22,0,0,22
 Eritrea,2020-04-04,29,0,0,29
-Eritrea,2020-04-04,29,0,0,29
-Eritrea,2020-04-05,29,0,0,29
 Eritrea,2020-04-05,29,0,0,29
 Eritrea,2020-04-06,31,0,0,31
-Eritrea,2020-04-06,31,0,0,31
-Eritrea,2020-04-07,31,0,0,31
 Eritrea,2020-04-07,31,0,0,31
 Eritrea,2020-04-08,33,0,0,33
-Eritrea,2020-04-08,33,0,0,33
+Eritrea,2020-04-09,33,0,0,33
+Eritrea,2020-04-10,34,0,0,34
+Eritrea,2020-04-11,34,0,0,34
 Eswatini,2020-01-22,0,0,0,0
 Eswatini,2020-01-23,0,0,0,0
 Eswatini,2020-01-24,0,0,0,0
@@ -1719,57 +1349,34 @@ Eswatini,2020-03-11,0,0,0,0
 Eswatini,2020-03-12,0,0,0,0
 Eswatini,2020-03-13,0,0,0,0
 Eswatini,2020-03-14,1,0,0,1
-Eswatini,2020-03-14,1,0,0,1
-Eswatini,2020-03-15,1,0,0,1
 Eswatini,2020-03-15,1,0,0,1
 Eswatini,2020-03-16,1,0,0,1
-Eswatini,2020-03-16,1,0,0,1
-Eswatini,2020-03-17,1,0,0,1
 Eswatini,2020-03-17,1,0,0,1
 Eswatini,2020-03-18,1,0,0,1
-Eswatini,2020-03-18,1,0,0,1
-Eswatini,2020-03-19,1,0,0,1
 Eswatini,2020-03-19,1,0,0,1
 Eswatini,2020-03-20,1,0,0,1
-Eswatini,2020-03-20,1,0,0,1
-Eswatini,2020-03-21,1,0,0,1
 Eswatini,2020-03-21,1,0,0,1
 Eswatini,2020-03-22,4,0,0,4
-Eswatini,2020-03-22,4,0,0,4
-Eswatini,2020-03-23,4,0,0,4
 Eswatini,2020-03-23,4,0,0,4
 Eswatini,2020-03-24,4,0,0,4
-Eswatini,2020-03-24,4,0,0,4
-Eswatini,2020-03-25,4,0,0,4
 Eswatini,2020-03-25,4,0,0,4
 Eswatini,2020-03-26,6,0,0,6
-Eswatini,2020-03-26,6,0,0,6
-Eswatini,2020-03-27,9,0,0,9
 Eswatini,2020-03-27,9,0,0,9
 Eswatini,2020-03-28,9,0,0,9
-Eswatini,2020-03-28,9,0,0,9
-Eswatini,2020-03-29,9,0,0,9
 Eswatini,2020-03-29,9,0,0,9
 Eswatini,2020-03-30,9,0,0,9
-Eswatini,2020-03-30,9,0,0,9
-Eswatini,2020-03-31,9,0,0,9
 Eswatini,2020-03-31,9,0,0,9
 Eswatini,2020-04-01,9,0,0,9
-Eswatini,2020-04-01,9,0,0,9
-Eswatini,2020-04-02,9,0,0,9
 Eswatini,2020-04-02,9,0,0,9
 Eswatini,2020-04-03,9,0,0,9
-Eswatini,2020-04-03,9,0,0,9
-Eswatini,2020-04-04,9,0,0,9
 Eswatini,2020-04-04,9,0,0,9
 Eswatini,2020-04-05,9,0,0,9
-Eswatini,2020-04-05,9,0,0,9
-Eswatini,2020-04-06,10,0,4,6
 Eswatini,2020-04-06,10,0,4,6
 Eswatini,2020-04-07,10,0,4,6
-Eswatini,2020-04-07,10,0,4,6
 Eswatini,2020-04-08,12,0,7,5
-Eswatini,2020-04-08,12,0,7,5
+Eswatini,2020-04-09,12,0,7,5
+Eswatini,2020-04-10,12,0,7,5
+Eswatini,2020-04-11,12,0,7,5
 Ethiopia,2020-01-22,0,0,0,0
 Ethiopia,2020-01-23,0,0,0,0
 Ethiopia,2020-01-24,0,0,0,0
@@ -1822,59 +1429,35 @@ Ethiopia,2020-03-10,0,0,0,0
 Ethiopia,2020-03-11,0,0,0,0
 Ethiopia,2020-03-12,0,0,0,0
 Ethiopia,2020-03-13,1,0,0,1
-Ethiopia,2020-03-13,1,0,0,1
-Ethiopia,2020-03-14,1,0,0,1
 Ethiopia,2020-03-14,1,0,0,1
 Ethiopia,2020-03-15,1,0,0,1
-Ethiopia,2020-03-15,1,0,0,1
-Ethiopia,2020-03-16,5,0,0,5
 Ethiopia,2020-03-16,5,0,0,5
 Ethiopia,2020-03-17,5,0,0,5
-Ethiopia,2020-03-17,5,0,0,5
-Ethiopia,2020-03-18,6,0,0,6
 Ethiopia,2020-03-18,6,0,0,6
 Ethiopia,2020-03-19,6,0,0,6
-Ethiopia,2020-03-19,6,0,0,6
-Ethiopia,2020-03-20,9,0,0,9
 Ethiopia,2020-03-20,9,0,0,9
 Ethiopia,2020-03-21,9,0,0,9
-Ethiopia,2020-03-21,9,0,0,9
-Ethiopia,2020-03-22,11,0,0,11
 Ethiopia,2020-03-22,11,0,0,11
 Ethiopia,2020-03-23,11,0,0,11
-Ethiopia,2020-03-23,11,0,0,11
-Ethiopia,2020-03-24,12,0,0,12
 Ethiopia,2020-03-24,12,0,0,12
 Ethiopia,2020-03-25,12,0,0,12
-Ethiopia,2020-03-25,12,0,0,12
-Ethiopia,2020-03-26,12,0,0,12
 Ethiopia,2020-03-26,12,0,0,12
 Ethiopia,2020-03-27,16,0,0,16
-Ethiopia,2020-03-27,16,0,0,16
-Ethiopia,2020-03-28,16,0,1,15
 Ethiopia,2020-03-28,16,0,1,15
 Ethiopia,2020-03-29,21,0,1,20
-Ethiopia,2020-03-29,21,0,1,20
-Ethiopia,2020-03-30,23,0,4,19
 Ethiopia,2020-03-30,23,0,4,19
 Ethiopia,2020-03-31,26,0,2,24
-Ethiopia,2020-03-31,26,0,2,24
-Ethiopia,2020-04-01,29,0,2,27
 Ethiopia,2020-04-01,29,0,2,27
 Ethiopia,2020-04-02,29,0,3,26
-Ethiopia,2020-04-02,29,0,3,26
-Ethiopia,2020-04-03,35,0,3,32
 Ethiopia,2020-04-03,35,0,3,32
 Ethiopia,2020-04-04,38,0,4,34
-Ethiopia,2020-04-04,38,0,4,34
-Ethiopia,2020-04-05,43,2,4,37
 Ethiopia,2020-04-05,43,2,4,37
 Ethiopia,2020-04-06,44,2,4,38
-Ethiopia,2020-04-06,44,2,4,38
-Ethiopia,2020-04-07,52,2,4,46
 Ethiopia,2020-04-07,52,2,4,46
 Ethiopia,2020-04-08,55,2,4,49
-Ethiopia,2020-04-08,55,2,4,49
+Ethiopia,2020-04-09,56,2,4,50
+Ethiopia,2020-04-10,65,3,4,58
+Ethiopia,2020-04-11,69,3,10,56
 Gabon,2020-01-22,0,0,0,0
 Gabon,2020-01-23,0,0,0,0
 Gabon,2020-01-24,0,0,0,0
@@ -1928,57 +1511,34 @@ Gabon,2020-03-11,0,0,0,0
 Gabon,2020-03-12,0,0,0,0
 Gabon,2020-03-13,0,0,0,0
 Gabon,2020-03-14,1,0,0,1
-Gabon,2020-03-14,1,0,0,1
-Gabon,2020-03-15,1,0,0,1
 Gabon,2020-03-15,1,0,0,1
 Gabon,2020-03-16,1,0,0,1
-Gabon,2020-03-16,1,0,0,1
-Gabon,2020-03-17,1,0,0,1
 Gabon,2020-03-17,1,0,0,1
 Gabon,2020-03-18,1,0,0,1
-Gabon,2020-03-18,1,0,0,1
-Gabon,2020-03-19,1,0,0,1
 Gabon,2020-03-19,1,0,0,1
 Gabon,2020-03-20,3,1,0,2
-Gabon,2020-03-20,3,1,0,2
-Gabon,2020-03-21,4,1,0,3
 Gabon,2020-03-21,4,1,0,3
 Gabon,2020-03-22,5,1,0,4
-Gabon,2020-03-22,5,1,0,4
-Gabon,2020-03-23,5,1,0,4
 Gabon,2020-03-23,5,1,0,4
 Gabon,2020-03-24,6,1,0,5
-Gabon,2020-03-24,6,1,0,5
-Gabon,2020-03-25,6,1,0,5
 Gabon,2020-03-25,6,1,0,5
 Gabon,2020-03-26,7,1,0,6
-Gabon,2020-03-26,7,1,0,6
-Gabon,2020-03-27,7,1,0,6
 Gabon,2020-03-27,7,1,0,6
 Gabon,2020-03-28,7,1,0,6
-Gabon,2020-03-28,7,1,0,6
-Gabon,2020-03-29,7,1,0,6
 Gabon,2020-03-29,7,1,0,6
 Gabon,2020-03-30,7,1,0,6
-Gabon,2020-03-30,7,1,0,6
-Gabon,2020-03-31,16,1,0,15
 Gabon,2020-03-31,16,1,0,15
 Gabon,2020-04-01,18,1,0,17
-Gabon,2020-04-01,18,1,0,17
-Gabon,2020-04-02,21,1,0,20
 Gabon,2020-04-02,21,1,0,20
 Gabon,2020-04-03,21,1,1,19
-Gabon,2020-04-03,21,1,1,19
-Gabon,2020-04-04,21,1,1,19
 Gabon,2020-04-04,21,1,1,19
 Gabon,2020-04-05,21,1,1,19
-Gabon,2020-04-05,21,1,1,19
-Gabon,2020-04-06,24,1,1,22
 Gabon,2020-04-06,24,1,1,22
 Gabon,2020-04-07,30,1,1,28
-Gabon,2020-04-07,30,1,1,28
 Gabon,2020-04-08,34,1,1,32
-Gabon,2020-04-08,34,1,1,32
+Gabon,2020-04-09,44,1,1,42
+Gabon,2020-04-10,44,1,1,42
+Gabon,2020-04-11,46,1,1,44
 Gambia,2020-01-22,0,0,0,0
 Gambia,2020-01-23,0,0,0,0
 Gambia,2020-01-24,0,0,0,0
@@ -2040,41 +1600,26 @@ Gambia,2020-03-19,0,0,0,0
 Gambia,2020-03-20,0,0,0,0
 Gambia,2020-03-21,0,0,0,0
 Gambia,2020-03-22,1,0,0,1
-Gambia,2020-03-22,1,0,0,1
-Gambia,2020-03-23,2,1,0,1
 Gambia,2020-03-23,2,1,0,1
 Gambia,2020-03-24,3,1,0,2
-Gambia,2020-03-24,3,1,0,2
-Gambia,2020-03-25,3,1,0,2
 Gambia,2020-03-25,3,1,0,2
 Gambia,2020-03-26,3,1,0,2
-Gambia,2020-03-26,3,1,0,2
-Gambia,2020-03-27,3,1,0,2
 Gambia,2020-03-27,3,1,0,2
 Gambia,2020-03-28,3,1,0,2
-Gambia,2020-03-28,3,1,0,2
-Gambia,2020-03-29,4,1,0,3
 Gambia,2020-03-29,4,1,0,3
 Gambia,2020-03-30,4,1,0,3
-Gambia,2020-03-30,4,1,0,3
-Gambia,2020-03-31,4,1,0,3
 Gambia,2020-03-31,4,1,0,3
 Gambia,2020-04-01,4,1,2,1
-Gambia,2020-04-01,4,1,2,1
-Gambia,2020-04-02,4,1,2,1
 Gambia,2020-04-02,4,1,2,1
 Gambia,2020-04-03,4,1,2,1
-Gambia,2020-04-03,4,1,2,1
-Gambia,2020-04-04,4,1,2,1
 Gambia,2020-04-04,4,1,2,1
 Gambia,2020-04-05,4,1,2,1
-Gambia,2020-04-05,4,1,2,1
-Gambia,2020-04-06,4,1,2,1
 Gambia,2020-04-06,4,1,2,1
 Gambia,2020-04-07,4,1,2,1
-Gambia,2020-04-07,4,1,2,1
 Gambia,2020-04-08,4,1,2,1
-Gambia,2020-04-08,4,1,2,1
+Gambia,2020-04-09,4,1,2,1
+Gambia,2020-04-10,4,1,2,1
+Gambia,2020-04-11,9,1,2,6
 "Gambia, The",2020-01-22,0,0,0,0
 "Gambia, The",2020-01-23,0,0,0,0
 "Gambia, The",2020-01-24,0,0,0,0
@@ -2132,12 +1677,8 @@ Gambia,2020-04-08,4,1,2,1
 "Gambia, The",2020-03-16,0,0,0,0
 "Gambia, The",2020-03-17,0,0,0,0
 "Gambia, The",2020-03-18,1,0,0,1
-"Gambia, The",2020-03-18,1,0,0,1
-"Gambia, The",2020-03-19,1,0,0,1
 "Gambia, The",2020-03-19,1,0,0,1
 "Gambia, The",2020-03-20,1,0,0,1
-"Gambia, The",2020-03-20,1,0,0,1
-"Gambia, The",2020-03-21,1,0,0,1
 "Gambia, The",2020-03-21,1,0,0,1
 "Gambia, The",2020-03-22,0,0,0,0
 "Gambia, The",2020-03-23,0,0,0,0
@@ -2157,6 +1698,9 @@ Gambia,2020-04-08,4,1,2,1
 "Gambia, The",2020-04-06,0,0,0,0
 "Gambia, The",2020-04-07,0,0,0,0
 "Gambia, The",2020-04-08,0,0,0,0
+"Gambia, The",2020-04-09,0,0,0,0
+"Gambia, The",2020-04-10,0,0,0,0
+"Gambia, The",2020-04-11,0,0,0,0
 Ghana,2020-01-22,0,0,0,0
 Ghana,2020-01-23,0,0,0,0
 Ghana,2020-01-24,0,0,0,0
@@ -2210,57 +1754,34 @@ Ghana,2020-03-11,0,0,0,0
 Ghana,2020-03-12,0,0,0,0
 Ghana,2020-03-13,0,0,0,0
 Ghana,2020-03-14,3,0,0,3
-Ghana,2020-03-14,3,0,0,3
-Ghana,2020-03-15,6,0,0,6
 Ghana,2020-03-15,6,0,0,6
 Ghana,2020-03-16,6,0,0,6
-Ghana,2020-03-16,6,0,0,6
-Ghana,2020-03-17,7,0,0,7
 Ghana,2020-03-17,7,0,0,7
 Ghana,2020-03-18,7,0,0,7
-Ghana,2020-03-18,7,0,0,7
-Ghana,2020-03-19,11,0,0,11
 Ghana,2020-03-19,11,0,0,11
 Ghana,2020-03-20,16,0,0,16
-Ghana,2020-03-20,16,0,0,16
-Ghana,2020-03-21,19,1,0,18
 Ghana,2020-03-21,19,1,0,18
 Ghana,2020-03-22,23,1,0,22
-Ghana,2020-03-22,23,1,0,22
-Ghana,2020-03-23,27,2,0,25
 Ghana,2020-03-23,27,2,0,25
 Ghana,2020-03-24,53,2,0,51
-Ghana,2020-03-24,53,2,0,51
-Ghana,2020-03-25,93,4,0,89
 Ghana,2020-03-25,93,4,0,89
 Ghana,2020-03-26,132,4,1,127
-Ghana,2020-03-26,132,4,1,127
-Ghana,2020-03-27,137,4,2,131
 Ghana,2020-03-27,137,4,2,131
 Ghana,2020-03-28,141,5,2,134
-Ghana,2020-03-28,141,5,2,134
-Ghana,2020-03-29,152,5,2,145
 Ghana,2020-03-29,152,5,2,145
 Ghana,2020-03-30,152,5,2,145
-Ghana,2020-03-30,152,5,2,145
-Ghana,2020-03-31,161,5,31,125
 Ghana,2020-03-31,161,5,31,125
 Ghana,2020-04-01,195,5,31,159
-Ghana,2020-04-01,195,5,31,159
-Ghana,2020-04-02,204,5,31,168
 Ghana,2020-04-02,204,5,31,168
 Ghana,2020-04-03,205,5,31,169
-Ghana,2020-04-03,205,5,31,169
-Ghana,2020-04-04,205,5,31,169
 Ghana,2020-04-04,205,5,31,169
 Ghana,2020-04-05,214,5,31,178
-Ghana,2020-04-05,214,5,31,178
-Ghana,2020-04-06,214,5,31,178
 Ghana,2020-04-06,214,5,31,178
 Ghana,2020-04-07,287,5,31,251
-Ghana,2020-04-07,287,5,31,251
 Ghana,2020-04-08,313,6,34,273
-Ghana,2020-04-08,313,6,34,273
+Ghana,2020-04-09,378,6,3,369
+Ghana,2020-04-10,378,6,4,368
+Ghana,2020-04-11,408,8,4,396
 Guinea,2020-01-22,0,0,0,0
 Guinea,2020-01-23,0,0,0,0
 Guinea,2020-01-24,0,0,0,0
@@ -2313,59 +1834,35 @@ Guinea,2020-03-10,0,0,0,0
 Guinea,2020-03-11,0,0,0,0
 Guinea,2020-03-12,0,0,0,0
 Guinea,2020-03-13,1,0,0,1
-Guinea,2020-03-13,1,0,0,1
-Guinea,2020-03-14,1,0,0,1
 Guinea,2020-03-14,1,0,0,1
 Guinea,2020-03-15,1,0,0,1
-Guinea,2020-03-15,1,0,0,1
-Guinea,2020-03-16,1,0,0,1
 Guinea,2020-03-16,1,0,0,1
 Guinea,2020-03-17,1,0,0,1
-Guinea,2020-03-17,1,0,0,1
-Guinea,2020-03-18,1,0,0,1
 Guinea,2020-03-18,1,0,0,1
 Guinea,2020-03-19,1,0,0,1
-Guinea,2020-03-19,1,0,0,1
-Guinea,2020-03-20,1,0,0,1
 Guinea,2020-03-20,1,0,0,1
 Guinea,2020-03-21,2,0,0,2
-Guinea,2020-03-21,2,0,0,2
-Guinea,2020-03-22,2,0,0,2
 Guinea,2020-03-22,2,0,0,2
 Guinea,2020-03-23,4,0,0,4
-Guinea,2020-03-23,4,0,0,4
-Guinea,2020-03-24,4,0,0,4
 Guinea,2020-03-24,4,0,0,4
 Guinea,2020-03-25,4,0,0,4
-Guinea,2020-03-25,4,0,0,4
-Guinea,2020-03-26,4,0,0,4
 Guinea,2020-03-26,4,0,0,4
 Guinea,2020-03-27,8,0,0,8
-Guinea,2020-03-27,8,0,0,8
-Guinea,2020-03-28,8,0,0,8
 Guinea,2020-03-28,8,0,0,8
 Guinea,2020-03-29,16,0,0,16
-Guinea,2020-03-29,16,0,0,16
-Guinea,2020-03-30,22,0,0,22
 Guinea,2020-03-30,22,0,0,22
 Guinea,2020-03-31,22,0,0,22
-Guinea,2020-03-31,22,0,0,22
-Guinea,2020-04-01,30,0,0,30
 Guinea,2020-04-01,30,0,0,30
 Guinea,2020-04-02,52,0,0,52
-Guinea,2020-04-02,52,0,0,52
-Guinea,2020-04-03,73,0,2,71
 Guinea,2020-04-03,73,0,2,71
 Guinea,2020-04-04,111,0,5,106
-Guinea,2020-04-04,111,0,5,106
-Guinea,2020-04-05,121,0,5,116
 Guinea,2020-04-05,121,0,5,116
 Guinea,2020-04-06,128,0,5,123
-Guinea,2020-04-06,128,0,5,123
-Guinea,2020-04-07,144,0,5,139
 Guinea,2020-04-07,144,0,5,139
 Guinea,2020-04-08,164,0,5,159
-Guinea,2020-04-08,164,0,5,159
+Guinea,2020-04-09,194,0,11,183
+Guinea,2020-04-10,212,0,15,197
+Guinea,2020-04-11,250,0,17,233
 Guinea-Bissau,2020-01-22,0,0,0,0
 Guinea-Bissau,2020-01-23,0,0,0,0
 Guinea-Bissau,2020-01-24,0,0,0,0
@@ -2430,35 +1927,23 @@ Guinea-Bissau,2020-03-22,0,0,0,0
 Guinea-Bissau,2020-03-23,0,0,0,0
 Guinea-Bissau,2020-03-24,0,0,0,0
 Guinea-Bissau,2020-03-25,2,0,0,2
-Guinea-Bissau,2020-03-25,2,0,0,2
-Guinea-Bissau,2020-03-26,2,0,0,2
 Guinea-Bissau,2020-03-26,2,0,0,2
 Guinea-Bissau,2020-03-27,2,0,0,2
-Guinea-Bissau,2020-03-27,2,0,0,2
-Guinea-Bissau,2020-03-28,2,0,0,2
 Guinea-Bissau,2020-03-28,2,0,0,2
 Guinea-Bissau,2020-03-29,2,0,0,2
-Guinea-Bissau,2020-03-29,2,0,0,2
-Guinea-Bissau,2020-03-30,8,0,0,8
 Guinea-Bissau,2020-03-30,8,0,0,8
 Guinea-Bissau,2020-03-31,8,0,0,8
-Guinea-Bissau,2020-03-31,8,0,0,8
-Guinea-Bissau,2020-04-01,9,0,0,9
 Guinea-Bissau,2020-04-01,9,0,0,9
 Guinea-Bissau,2020-04-02,9,0,0,9
-Guinea-Bissau,2020-04-02,9,0,0,9
-Guinea-Bissau,2020-04-03,15,0,0,15
 Guinea-Bissau,2020-04-03,15,0,0,15
 Guinea-Bissau,2020-04-04,18,0,0,18
-Guinea-Bissau,2020-04-04,18,0,0,18
-Guinea-Bissau,2020-04-05,18,0,0,18
 Guinea-Bissau,2020-04-05,18,0,0,18
 Guinea-Bissau,2020-04-06,18,0,0,18
-Guinea-Bissau,2020-04-06,18,0,0,18
-Guinea-Bissau,2020-04-07,33,0,0,33
 Guinea-Bissau,2020-04-07,33,0,0,33
 Guinea-Bissau,2020-04-08,33,0,0,33
-Guinea-Bissau,2020-04-08,33,0,0,33
+Guinea-Bissau,2020-04-09,36,0,0,36
+Guinea-Bissau,2020-04-10,36,0,0,36
+Guinea-Bissau,2020-04-11,38,0,0,38
 Kenya,2020-01-22,0,0,0,0
 Kenya,2020-01-23,0,0,0,0
 Kenya,2020-01-24,0,0,0,0
@@ -2511,59 +1996,35 @@ Kenya,2020-03-10,0,0,0,0
 Kenya,2020-03-11,0,0,0,0
 Kenya,2020-03-12,0,0,0,0
 Kenya,2020-03-13,1,0,0,1
-Kenya,2020-03-13,1,0,0,1
-Kenya,2020-03-14,1,0,0,1
 Kenya,2020-03-14,1,0,0,1
 Kenya,2020-03-15,3,0,0,3
-Kenya,2020-03-15,3,0,0,3
-Kenya,2020-03-16,3,0,0,3
 Kenya,2020-03-16,3,0,0,3
 Kenya,2020-03-17,3,0,0,3
-Kenya,2020-03-17,3,0,0,3
-Kenya,2020-03-18,3,0,0,3
 Kenya,2020-03-18,3,0,0,3
 Kenya,2020-03-19,7,0,0,7
-Kenya,2020-03-19,7,0,0,7
-Kenya,2020-03-20,7,0,0,7
 Kenya,2020-03-20,7,0,0,7
 Kenya,2020-03-21,7,0,0,7
-Kenya,2020-03-21,7,0,0,7
-Kenya,2020-03-22,15,0,0,15
 Kenya,2020-03-22,15,0,0,15
 Kenya,2020-03-23,16,0,0,16
-Kenya,2020-03-23,16,0,0,16
-Kenya,2020-03-24,25,0,0,25
 Kenya,2020-03-24,25,0,0,25
 Kenya,2020-03-25,28,0,1,27
-Kenya,2020-03-25,28,0,1,27
-Kenya,2020-03-26,31,1,1,29
 Kenya,2020-03-26,31,1,1,29
 Kenya,2020-03-27,31,1,1,29
-Kenya,2020-03-27,31,1,1,29
-Kenya,2020-03-28,38,1,1,36
 Kenya,2020-03-28,38,1,1,36
 Kenya,2020-03-29,42,1,1,40
-Kenya,2020-03-29,42,1,1,40
-Kenya,2020-03-30,50,1,1,48
 Kenya,2020-03-30,50,1,1,48
 Kenya,2020-03-31,59,1,1,57
-Kenya,2020-03-31,59,1,1,57
-Kenya,2020-04-01,81,1,3,77
 Kenya,2020-04-01,81,1,3,77
 Kenya,2020-04-02,110,3,4,103
-Kenya,2020-04-02,110,3,4,103
-Kenya,2020-04-03,122,4,4,114
 Kenya,2020-04-03,122,4,4,114
 Kenya,2020-04-04,126,4,4,118
-Kenya,2020-04-04,126,4,4,118
-Kenya,2020-04-05,142,4,4,134
 Kenya,2020-04-05,142,4,4,134
 Kenya,2020-04-06,158,6,4,148
-Kenya,2020-04-06,158,6,4,148
-Kenya,2020-04-07,172,6,7,159
 Kenya,2020-04-07,172,6,7,159
 Kenya,2020-04-08,179,6,9,164
-Kenya,2020-04-08,179,6,9,164
+Kenya,2020-04-09,184,7,12,165
+Kenya,2020-04-10,189,7,22,160
+Kenya,2020-04-11,191,7,24,160
 Liberia,2020-01-22,0,0,0,0
 Liberia,2020-01-23,0,0,0,0
 Liberia,2020-01-24,0,0,0,0
@@ -2619,53 +2080,32 @@ Liberia,2020-03-13,0,0,0,0
 Liberia,2020-03-14,0,0,0,0
 Liberia,2020-03-15,0,0,0,0
 Liberia,2020-03-16,1,0,0,1
-Liberia,2020-03-16,1,0,0,1
-Liberia,2020-03-17,1,0,0,1
 Liberia,2020-03-17,1,0,0,1
 Liberia,2020-03-18,2,0,0,2
-Liberia,2020-03-18,2,0,0,2
-Liberia,2020-03-19,2,0,0,2
 Liberia,2020-03-19,2,0,0,2
 Liberia,2020-03-20,2,0,0,2
-Liberia,2020-03-20,2,0,0,2
-Liberia,2020-03-21,3,0,0,3
 Liberia,2020-03-21,3,0,0,3
 Liberia,2020-03-22,3,0,0,3
-Liberia,2020-03-22,3,0,0,3
-Liberia,2020-03-23,3,0,0,3
 Liberia,2020-03-23,3,0,0,3
 Liberia,2020-03-24,3,0,0,3
-Liberia,2020-03-24,3,0,0,3
-Liberia,2020-03-25,3,0,0,3
 Liberia,2020-03-25,3,0,0,3
 Liberia,2020-03-26,3,0,0,3
-Liberia,2020-03-26,3,0,0,3
-Liberia,2020-03-27,3,0,0,3
 Liberia,2020-03-27,3,0,0,3
 Liberia,2020-03-28,3,0,0,3
-Liberia,2020-03-28,3,0,0,3
-Liberia,2020-03-29,3,0,0,3
 Liberia,2020-03-29,3,0,0,3
 Liberia,2020-03-30,3,0,0,3
-Liberia,2020-03-30,3,0,0,3
-Liberia,2020-03-31,3,0,0,3
 Liberia,2020-03-31,3,0,0,3
 Liberia,2020-04-01,6,0,0,6
-Liberia,2020-04-01,6,0,0,6
-Liberia,2020-04-02,6,0,0,6
 Liberia,2020-04-02,6,0,0,6
 Liberia,2020-04-03,7,0,0,7
-Liberia,2020-04-03,7,0,0,7
-Liberia,2020-04-04,10,1,3,6
 Liberia,2020-04-04,10,1,3,6
 Liberia,2020-04-05,13,3,3,7
-Liberia,2020-04-05,13,3,3,7
-Liberia,2020-04-06,14,3,3,8
 Liberia,2020-04-06,14,3,3,8
 Liberia,2020-04-07,14,3,3,8
-Liberia,2020-04-07,14,3,3,8
 Liberia,2020-04-08,31,4,3,24
-Liberia,2020-04-08,31,4,3,24
+Liberia,2020-04-09,31,4,3,24
+Liberia,2020-04-10,37,5,3,29
+Liberia,2020-04-11,48,5,3,40
 Libya,2020-01-22,0,0,0,0
 Libya,2020-01-23,0,0,0,0
 Libya,2020-01-24,0,0,0,0
@@ -2729,37 +2169,24 @@ Libya,2020-03-21,0,0,0,0
 Libya,2020-03-22,0,0,0,0
 Libya,2020-03-23,0,0,0,0
 Libya,2020-03-24,1,0,0,1
-Libya,2020-03-24,1,0,0,1
-Libya,2020-03-25,1,0,0,1
 Libya,2020-03-25,1,0,0,1
 Libya,2020-03-26,1,0,0,1
-Libya,2020-03-26,1,0,0,1
-Libya,2020-03-27,1,0,0,1
 Libya,2020-03-27,1,0,0,1
 Libya,2020-03-28,3,0,0,3
-Libya,2020-03-28,3,0,0,3
-Libya,2020-03-29,8,0,0,8
 Libya,2020-03-29,8,0,0,8
 Libya,2020-03-30,8,0,0,8
-Libya,2020-03-30,8,0,0,8
-Libya,2020-03-31,10,0,1,9
 Libya,2020-03-31,10,0,1,9
 Libya,2020-04-01,10,0,0,10
-Libya,2020-04-01,10,0,0,10
-Libya,2020-04-02,11,1,0,10
 Libya,2020-04-02,11,1,0,10
 Libya,2020-04-03,11,1,0,10
-Libya,2020-04-03,11,1,0,10
-Libya,2020-04-04,18,1,0,17
 Libya,2020-04-04,18,1,0,17
 Libya,2020-04-05,18,1,0,17
-Libya,2020-04-05,18,1,0,17
-Libya,2020-04-06,19,1,1,17
 Libya,2020-04-06,19,1,1,17
 Libya,2020-04-07,20,1,1,18
-Libya,2020-04-07,20,1,1,18
 Libya,2020-04-08,21,1,8,12
-Libya,2020-04-08,21,1,8,12
+Libya,2020-04-09,24,1,8,15
+Libya,2020-04-10,24,1,8,15
+Libya,2020-04-11,24,1,8,15
 Madagascar,2020-01-22,0,0,0,0
 Madagascar,2020-01-23,0,0,0,0
 Madagascar,2020-01-24,0,0,0,0
@@ -2819,45 +2246,28 @@ Madagascar,2020-03-17,0,0,0,0
 Madagascar,2020-03-18,0,0,0,0
 Madagascar,2020-03-19,0,0,0,0
 Madagascar,2020-03-20,3,0,0,3
-Madagascar,2020-03-20,3,0,0,3
-Madagascar,2020-03-21,3,0,0,3
 Madagascar,2020-03-21,3,0,0,3
 Madagascar,2020-03-22,3,0,0,3
-Madagascar,2020-03-22,3,0,0,3
-Madagascar,2020-03-23,12,0,0,12
 Madagascar,2020-03-23,12,0,0,12
 Madagascar,2020-03-24,17,0,0,17
-Madagascar,2020-03-24,17,0,0,17
-Madagascar,2020-03-25,19,0,0,19
 Madagascar,2020-03-25,19,0,0,19
 Madagascar,2020-03-26,23,0,0,23
-Madagascar,2020-03-26,23,0,0,23
-Madagascar,2020-03-27,26,0,0,26
 Madagascar,2020-03-27,26,0,0,26
 Madagascar,2020-03-28,26,0,0,26
-Madagascar,2020-03-28,26,0,0,26
-Madagascar,2020-03-29,39,0,0,39
 Madagascar,2020-03-29,39,0,0,39
 Madagascar,2020-03-30,43,0,0,43
-Madagascar,2020-03-30,43,0,0,43
-Madagascar,2020-03-31,57,0,0,57
 Madagascar,2020-03-31,57,0,0,57
 Madagascar,2020-04-01,57,0,0,57
-Madagascar,2020-04-01,57,0,0,57
-Madagascar,2020-04-02,59,0,0,59
 Madagascar,2020-04-02,59,0,0,59
 Madagascar,2020-04-03,70,0,0,70
-Madagascar,2020-04-03,70,0,0,70
-Madagascar,2020-04-04,70,0,0,70
 Madagascar,2020-04-04,70,0,0,70
 Madagascar,2020-04-05,72,0,2,70
-Madagascar,2020-04-05,72,0,2,70
-Madagascar,2020-04-06,82,0,2,80
 Madagascar,2020-04-06,82,0,2,80
 Madagascar,2020-04-07,88,0,7,81
-Madagascar,2020-04-07,88,0,7,81
 Madagascar,2020-04-08,93,0,11,82
-Madagascar,2020-04-08,93,0,11,82
+Madagascar,2020-04-09,93,0,11,82
+Madagascar,2020-04-10,93,0,11,82
+Madagascar,2020-04-11,102,0,11,91
 Malawi,2020-01-22,0,0,0,0
 Malawi,2020-01-23,0,0,0,0
 Malawi,2020-01-24,0,0,0,0
@@ -2930,19 +2340,15 @@ Malawi,2020-03-30,0,0,0,0
 Malawi,2020-03-31,0,0,0,0
 Malawi,2020-04-01,0,0,0,0
 Malawi,2020-04-02,3,0,0,3
-Malawi,2020-04-02,3,0,0,3
-Malawi,2020-04-03,3,0,0,3
 Malawi,2020-04-03,3,0,0,3
 Malawi,2020-04-04,4,0,0,4
-Malawi,2020-04-04,4,0,0,4
-Malawi,2020-04-05,4,0,0,4
 Malawi,2020-04-05,4,0,0,4
 Malawi,2020-04-06,5,0,0,5
-Malawi,2020-04-06,5,0,0,5
-Malawi,2020-04-07,8,1,0,7
 Malawi,2020-04-07,8,1,0,7
 Malawi,2020-04-08,8,1,0,7
-Malawi,2020-04-08,8,1,0,7
+Malawi,2020-04-09,8,1,0,7
+Malawi,2020-04-10,9,1,0,8
+Malawi,2020-04-11,12,2,0,10
 Mali,2020-01-22,0,0,0,0
 Mali,2020-01-23,0,0,0,0
 Mali,2020-01-24,0,0,0,0
@@ -3007,35 +2413,23 @@ Mali,2020-03-22,0,0,0,0
 Mali,2020-03-23,0,0,0,0
 Mali,2020-03-24,0,0,0,0
 Mali,2020-03-25,2,0,0,2
-Mali,2020-03-25,2,0,0,2
-Mali,2020-03-26,4,0,0,4
 Mali,2020-03-26,4,0,0,4
 Mali,2020-03-27,11,0,0,11
-Mali,2020-03-27,11,0,0,11
-Mali,2020-03-28,18,0,0,18
 Mali,2020-03-28,18,0,0,18
 Mali,2020-03-29,18,1,0,17
-Mali,2020-03-29,18,1,0,17
-Mali,2020-03-30,25,2,0,23
 Mali,2020-03-30,25,2,0,23
 Mali,2020-03-31,28,2,0,26
-Mali,2020-03-31,28,2,0,26
-Mali,2020-04-01,31,3,0,28
 Mali,2020-04-01,31,3,0,28
 Mali,2020-04-02,36,3,0,33
-Mali,2020-04-02,36,3,0,33
-Mali,2020-04-03,39,3,0,36
 Mali,2020-04-03,39,3,0,36
 Mali,2020-04-04,41,3,1,37
-Mali,2020-04-04,41,3,1,37
-Mali,2020-04-05,45,5,1,39
 Mali,2020-04-05,45,5,1,39
 Mali,2020-04-06,47,5,9,33
-Mali,2020-04-06,47,5,9,33
-Mali,2020-04-07,56,5,12,39
 Mali,2020-04-07,56,5,12,39
 Mali,2020-04-08,59,7,16,36
-Mali,2020-04-08,59,7,16,36
+Mali,2020-04-09,74,7,22,45
+Mali,2020-04-10,87,7,22,58
+Mali,2020-04-11,87,7,22,58
 Mauritania,2020-01-22,0,0,0,0
 Mauritania,2020-01-23,0,0,0,0
 Mauritania,2020-01-24,0,0,0,0
@@ -3089,57 +2483,34 @@ Mauritania,2020-03-11,0,0,0,0
 Mauritania,2020-03-12,0,0,0,0
 Mauritania,2020-03-13,0,0,0,0
 Mauritania,2020-03-14,1,0,0,1
-Mauritania,2020-03-14,1,0,0,1
-Mauritania,2020-03-15,1,0,0,1
 Mauritania,2020-03-15,1,0,0,1
 Mauritania,2020-03-16,1,0,0,1
-Mauritania,2020-03-16,1,0,0,1
-Mauritania,2020-03-17,1,0,0,1
 Mauritania,2020-03-17,1,0,0,1
 Mauritania,2020-03-18,1,0,0,1
-Mauritania,2020-03-18,1,0,0,1
-Mauritania,2020-03-19,2,0,0,2
 Mauritania,2020-03-19,2,0,0,2
 Mauritania,2020-03-20,2,0,0,2
-Mauritania,2020-03-20,2,0,0,2
-Mauritania,2020-03-21,2,0,0,2
 Mauritania,2020-03-21,2,0,0,2
 Mauritania,2020-03-22,2,0,0,2
-Mauritania,2020-03-22,2,0,0,2
-Mauritania,2020-03-23,2,0,0,2
 Mauritania,2020-03-23,2,0,0,2
 Mauritania,2020-03-24,2,0,0,2
-Mauritania,2020-03-24,2,0,0,2
-Mauritania,2020-03-25,2,0,0,2
 Mauritania,2020-03-25,2,0,0,2
 Mauritania,2020-03-26,3,0,0,3
-Mauritania,2020-03-26,3,0,0,3
-Mauritania,2020-03-27,3,0,0,3
 Mauritania,2020-03-27,3,0,0,3
 Mauritania,2020-03-28,5,0,0,5
-Mauritania,2020-03-28,5,0,0,5
-Mauritania,2020-03-29,5,0,2,3
 Mauritania,2020-03-29,5,0,2,3
 Mauritania,2020-03-30,5,1,2,2
-Mauritania,2020-03-30,5,1,2,2
-Mauritania,2020-03-31,6,1,2,3
 Mauritania,2020-03-31,6,1,2,3
 Mauritania,2020-04-01,6,1,2,3
-Mauritania,2020-04-01,6,1,2,3
-Mauritania,2020-04-02,6,1,2,3
 Mauritania,2020-04-02,6,1,2,3
 Mauritania,2020-04-03,6,1,2,3
-Mauritania,2020-04-03,6,1,2,3
-Mauritania,2020-04-04,6,1,2,3
 Mauritania,2020-04-04,6,1,2,3
 Mauritania,2020-04-05,6,1,2,3
-Mauritania,2020-04-05,6,1,2,3
-Mauritania,2020-04-06,6,1,2,3
 Mauritania,2020-04-06,6,1,2,3
 Mauritania,2020-04-07,6,1,2,3
-Mauritania,2020-04-07,6,1,2,3
 Mauritania,2020-04-08,6,1,2,3
-Mauritania,2020-04-08,6,1,2,3
+Mauritania,2020-04-09,7,1,2,4
+Mauritania,2020-04-10,7,1,2,4
+Mauritania,2020-04-11,7,1,2,4
 Mauritius,2020-01-22,0,0,0,0
 Mauritius,2020-01-23,0,0,0,0
 Mauritius,2020-01-24,0,0,0,0
@@ -3197,49 +2568,30 @@ Mauritius,2020-03-15,0,0,0,0
 Mauritius,2020-03-16,0,0,0,0
 Mauritius,2020-03-17,0,0,0,0
 Mauritius,2020-03-18,3,0,0,3
-Mauritius,2020-03-18,3,0,0,3
-Mauritius,2020-03-19,3,0,0,3
 Mauritius,2020-03-19,3,0,0,3
 Mauritius,2020-03-20,12,0,0,12
-Mauritius,2020-03-20,12,0,0,12
-Mauritius,2020-03-21,14,1,0,13
 Mauritius,2020-03-21,14,1,0,13
 Mauritius,2020-03-22,28,2,0,26
-Mauritius,2020-03-22,28,2,0,26
-Mauritius,2020-03-23,36,2,0,34
 Mauritius,2020-03-23,36,2,0,34
 Mauritius,2020-03-24,42,2,0,40
-Mauritius,2020-03-24,42,2,0,40
-Mauritius,2020-03-25,48,2,0,46
 Mauritius,2020-03-25,48,2,0,46
 Mauritius,2020-03-26,81,2,0,79
-Mauritius,2020-03-26,81,2,0,79
-Mauritius,2020-03-27,94,2,0,92
 Mauritius,2020-03-27,94,2,0,92
 Mauritius,2020-03-28,102,2,0,100
-Mauritius,2020-03-28,102,2,0,100
-Mauritius,2020-03-29,107,3,0,104
 Mauritius,2020-03-29,107,3,0,104
 Mauritius,2020-03-30,128,3,0,125
-Mauritius,2020-03-30,128,3,0,125
-Mauritius,2020-03-31,143,5,0,138
 Mauritius,2020-03-31,143,5,0,138
 Mauritius,2020-04-01,161,6,0,155
-Mauritius,2020-04-01,161,6,0,155
-Mauritius,2020-04-02,169,7,0,162
 Mauritius,2020-04-02,169,7,0,162
 Mauritius,2020-04-03,186,7,0,179
-Mauritius,2020-04-03,186,7,0,179
-Mauritius,2020-04-04,196,7,7,182
 Mauritius,2020-04-04,196,7,7,182
 Mauritius,2020-04-05,227,7,7,213
-Mauritius,2020-04-05,227,7,7,213
-Mauritius,2020-04-06,244,7,7,230
 Mauritius,2020-04-06,244,7,7,230
 Mauritius,2020-04-07,268,7,8,253
-Mauritius,2020-04-07,268,7,8,253
 Mauritius,2020-04-08,273,7,19,247
-Mauritius,2020-04-08,273,7,19,247
+Mauritius,2020-04-09,314,7,23,284
+Mauritius,2020-04-10,318,9,23,286
+Mauritius,2020-04-11,319,9,28,282
 Mayotte,2020-01-22,0,0,0,0
 Mayotte,2020-01-23,0,0,0,0
 Mayotte,2020-01-24,0,0,0,0
@@ -3295,16 +2647,10 @@ Mayotte,2020-03-13,0,0,0,0
 Mayotte,2020-03-14,0,0,0,0
 Mayotte,2020-03-15,0,0,0,0
 Mayotte,2020-03-16,1,0,0,1
-Mayotte,2020-03-16,1,0,0,1
-Mayotte,2020-03-17,1,0,0,1
 Mayotte,2020-03-17,1,0,0,1
 Mayotte,2020-03-18,3,0,0,3
-Mayotte,2020-03-18,3,0,0,3
-Mayotte,2020-03-19,3,0,0,3
 Mayotte,2020-03-19,3,0,0,3
 Mayotte,2020-03-20,6,0,0,6
-Mayotte,2020-03-20,6,0,0,6
-Mayotte,2020-03-21,7,0,0,7
 Mayotte,2020-03-21,7,0,0,7
 Mayotte,2020-03-22,0,0,0,0
 Mayotte,2020-03-23,0,0,0,0
@@ -3324,6 +2670,9 @@ Mayotte,2020-04-05,0,0,0,0
 Mayotte,2020-04-06,0,0,0,0
 Mayotte,2020-04-07,0,0,0,0
 Mayotte,2020-04-08,0,0,0,0
+Mayotte,2020-04-09,0,0,0,0
+Mayotte,2020-04-10,0,0,0,0
+Mayotte,2020-04-11,0,0,0,0
 Morocco,2020-01-22,0,0,0,0
 Morocco,2020-01-23,0,0,0,0
 Morocco,2020-01-24,0,0,0,0
@@ -3365,81 +2714,46 @@ Morocco,2020-02-28,0,0,0,0
 Morocco,2020-02-29,0,0,0,0
 Morocco,2020-03-01,0,0,0,0
 Morocco,2020-03-02,1,0,0,1
-Morocco,2020-03-02,1,0,0,1
-Morocco,2020-03-03,1,0,0,1
 Morocco,2020-03-03,1,0,0,1
 Morocco,2020-03-04,1,0,0,1
-Morocco,2020-03-04,1,0,0,1
-Morocco,2020-03-05,2,0,0,2
 Morocco,2020-03-05,2,0,0,2
 Morocco,2020-03-06,2,0,0,2
-Morocco,2020-03-06,2,0,0,2
-Morocco,2020-03-07,2,0,0,2
 Morocco,2020-03-07,2,0,0,2
 Morocco,2020-03-08,2,0,0,2
-Morocco,2020-03-08,2,0,0,2
-Morocco,2020-03-09,2,0,0,2
 Morocco,2020-03-09,2,0,0,2
 Morocco,2020-03-10,3,1,0,2
-Morocco,2020-03-10,3,1,0,2
-Morocco,2020-03-11,5,1,0,4
 Morocco,2020-03-11,5,1,0,4
 Morocco,2020-03-12,6,1,0,5
-Morocco,2020-03-12,6,1,0,5
-Morocco,2020-03-13,7,1,1,5
 Morocco,2020-03-13,7,1,1,5
 Morocco,2020-03-14,17,1,1,15
-Morocco,2020-03-14,17,1,1,15
-Morocco,2020-03-15,28,1,1,26
 Morocco,2020-03-15,28,1,1,26
 Morocco,2020-03-16,29,1,1,27
-Morocco,2020-03-16,29,1,1,27
-Morocco,2020-03-17,38,2,1,35
 Morocco,2020-03-17,38,2,1,35
 Morocco,2020-03-18,49,2,1,46
-Morocco,2020-03-18,49,2,1,46
-Morocco,2020-03-19,63,2,1,60
 Morocco,2020-03-19,63,2,1,60
 Morocco,2020-03-20,77,3,1,73
-Morocco,2020-03-20,77,3,1,73
-Morocco,2020-03-21,96,3,3,90
 Morocco,2020-03-21,96,3,3,90
 Morocco,2020-03-22,115,4,3,108
-Morocco,2020-03-22,115,4,3,108
-Morocco,2020-03-23,143,4,5,134
 Morocco,2020-03-23,143,4,5,134
 Morocco,2020-03-24,170,5,6,159
-Morocco,2020-03-24,170,5,6,159
-Morocco,2020-03-25,225,6,7,212
 Morocco,2020-03-25,225,6,7,212
 Morocco,2020-03-26,275,11,8,256
-Morocco,2020-03-26,275,11,8,256
-Morocco,2020-03-27,345,23,11,311
 Morocco,2020-03-27,345,23,11,311
 Morocco,2020-03-28,402,25,11,366
-Morocco,2020-03-28,402,25,11,366
-Morocco,2020-03-29,479,26,13,440
 Morocco,2020-03-29,479,26,13,440
 Morocco,2020-03-30,556,33,15,508
-Morocco,2020-03-30,556,33,15,508
-Morocco,2020-03-31,617,36,24,557
 Morocco,2020-03-31,617,36,24,557
 Morocco,2020-04-01,654,39,29,586
-Morocco,2020-04-01,654,39,29,586
-Morocco,2020-04-02,708,44,31,633
 Morocco,2020-04-02,708,44,31,633
 Morocco,2020-04-03,791,48,57,686
-Morocco,2020-04-03,791,48,57,686
-Morocco,2020-04-04,919,59,66,794
 Morocco,2020-04-04,919,59,66,794
 Morocco,2020-04-05,1021,70,76,875
-Morocco,2020-04-05,1021,70,76,875
-Morocco,2020-04-06,1120,80,81,959
 Morocco,2020-04-06,1120,80,81,959
 Morocco,2020-04-07,1184,90,93,1001
-Morocco,2020-04-07,1184,90,93,1001
 Morocco,2020-04-08,1275,93,97,1085
-Morocco,2020-04-08,1275,93,97,1085
+Morocco,2020-04-09,1374,97,109,1168
+Morocco,2020-04-10,1448,107,122,1219
+Morocco,2020-04-11,1545,111,146,1288
 Mozambique,2020-01-22,0,0,0,0
 Mozambique,2020-01-23,0,0,0,0
 Mozambique,2020-01-24,0,0,0,0
@@ -3501,41 +2815,26 @@ Mozambique,2020-03-19,0,0,0,0
 Mozambique,2020-03-20,0,0,0,0
 Mozambique,2020-03-21,0,0,0,0
 Mozambique,2020-03-22,1,0,0,1
-Mozambique,2020-03-22,1,0,0,1
-Mozambique,2020-03-23,1,0,0,1
 Mozambique,2020-03-23,1,0,0,1
 Mozambique,2020-03-24,3,0,0,3
-Mozambique,2020-03-24,3,0,0,3
-Mozambique,2020-03-25,5,0,0,5
 Mozambique,2020-03-25,5,0,0,5
 Mozambique,2020-03-26,7,0,0,7
-Mozambique,2020-03-26,7,0,0,7
-Mozambique,2020-03-27,7,0,0,7
 Mozambique,2020-03-27,7,0,0,7
 Mozambique,2020-03-28,8,0,0,8
-Mozambique,2020-03-28,8,0,0,8
-Mozambique,2020-03-29,8,0,0,8
 Mozambique,2020-03-29,8,0,0,8
 Mozambique,2020-03-30,8,0,0,8
-Mozambique,2020-03-30,8,0,0,8
-Mozambique,2020-03-31,8,0,0,8
 Mozambique,2020-03-31,8,0,0,8
 Mozambique,2020-04-01,10,0,0,10
-Mozambique,2020-04-01,10,0,0,10
-Mozambique,2020-04-02,10,0,0,10
 Mozambique,2020-04-02,10,0,0,10
 Mozambique,2020-04-03,10,0,0,10
-Mozambique,2020-04-03,10,0,0,10
-Mozambique,2020-04-04,10,0,1,9
 Mozambique,2020-04-04,10,0,1,9
 Mozambique,2020-04-05,10,0,1,9
-Mozambique,2020-04-05,10,0,1,9
-Mozambique,2020-04-06,10,0,1,9
 Mozambique,2020-04-06,10,0,1,9
 Mozambique,2020-04-07,10,0,1,9
-Mozambique,2020-04-07,10,0,1,9
 Mozambique,2020-04-08,17,0,1,16
-Mozambique,2020-04-08,17,0,1,16
+Mozambique,2020-04-09,17,0,1,16
+Mozambique,2020-04-10,20,0,2,18
+Mozambique,2020-04-11,20,0,2,18
 Namibia,2020-01-22,0,0,0,0
 Namibia,2020-01-23,0,0,0,0
 Namibia,2020-01-24,0,0,0,0
@@ -3589,57 +2888,34 @@ Namibia,2020-03-11,0,0,0,0
 Namibia,2020-03-12,0,0,0,0
 Namibia,2020-03-13,0,0,0,0
 Namibia,2020-03-14,2,0,0,2
-Namibia,2020-03-14,2,0,0,2
-Namibia,2020-03-15,2,0,0,2
 Namibia,2020-03-15,2,0,0,2
 Namibia,2020-03-16,2,0,0,2
-Namibia,2020-03-16,2,0,0,2
-Namibia,2020-03-17,2,0,0,2
 Namibia,2020-03-17,2,0,0,2
 Namibia,2020-03-18,2,0,0,2
-Namibia,2020-03-18,2,0,0,2
-Namibia,2020-03-19,3,0,0,3
 Namibia,2020-03-19,3,0,0,3
 Namibia,2020-03-20,3,0,0,3
-Namibia,2020-03-20,3,0,0,3
-Namibia,2020-03-21,3,0,0,3
 Namibia,2020-03-21,3,0,0,3
 Namibia,2020-03-22,3,0,0,3
-Namibia,2020-03-22,3,0,0,3
-Namibia,2020-03-23,4,0,0,4
 Namibia,2020-03-23,4,0,0,4
 Namibia,2020-03-24,7,0,2,5
-Namibia,2020-03-24,7,0,2,5
-Namibia,2020-03-25,7,0,2,5
 Namibia,2020-03-25,7,0,2,5
 Namibia,2020-03-26,8,0,2,6
-Namibia,2020-03-26,8,0,2,6
-Namibia,2020-03-27,8,0,2,6
 Namibia,2020-03-27,8,0,2,6
 Namibia,2020-03-28,8,0,2,6
-Namibia,2020-03-28,8,0,2,6
-Namibia,2020-03-29,11,0,2,9
 Namibia,2020-03-29,11,0,2,9
 Namibia,2020-03-30,11,0,2,9
-Namibia,2020-03-30,11,0,2,9
-Namibia,2020-03-31,11,0,2,9
 Namibia,2020-03-31,11,0,2,9
 Namibia,2020-04-01,14,0,2,12
-Namibia,2020-04-01,14,0,2,12
-Namibia,2020-04-02,14,0,3,11
 Namibia,2020-04-02,14,0,3,11
 Namibia,2020-04-03,14,0,3,11
-Namibia,2020-04-03,14,0,3,11
-Namibia,2020-04-04,14,0,3,11
 Namibia,2020-04-04,14,0,3,11
 Namibia,2020-04-05,16,0,3,13
-Namibia,2020-04-05,16,0,3,13
-Namibia,2020-04-06,16,0,3,13
 Namibia,2020-04-06,16,0,3,13
 Namibia,2020-04-07,16,0,3,13
-Namibia,2020-04-07,16,0,3,13
 Namibia,2020-04-08,16,0,3,13
-Namibia,2020-04-08,16,0,3,13
+Namibia,2020-04-09,16,0,3,13
+Namibia,2020-04-10,16,0,3,13
+Namibia,2020-04-11,16,0,3,13
 Niger,2020-01-22,0,0,0,0
 Niger,2020-01-23,0,0,0,0
 Niger,2020-01-24,0,0,0,0
@@ -3699,45 +2975,28 @@ Niger,2020-03-17,0,0,0,0
 Niger,2020-03-18,0,0,0,0
 Niger,2020-03-19,0,0,0,0
 Niger,2020-03-20,1,0,0,1
-Niger,2020-03-20,1,0,0,1
-Niger,2020-03-21,1,0,0,1
 Niger,2020-03-21,1,0,0,1
 Niger,2020-03-22,2,0,0,2
-Niger,2020-03-22,2,0,0,2
-Niger,2020-03-23,3,0,0,3
 Niger,2020-03-23,3,0,0,3
 Niger,2020-03-24,3,0,0,3
-Niger,2020-03-24,3,0,0,3
-Niger,2020-03-25,7,1,0,6
 Niger,2020-03-25,7,1,0,6
 Niger,2020-03-26,10,1,0,9
-Niger,2020-03-26,10,1,0,9
-Niger,2020-03-27,10,1,0,9
 Niger,2020-03-27,10,1,0,9
 Niger,2020-03-28,10,1,0,9
-Niger,2020-03-28,10,1,0,9
-Niger,2020-03-29,18,1,0,17
 Niger,2020-03-29,18,1,0,17
 Niger,2020-03-30,27,3,0,24
-Niger,2020-03-30,27,3,0,24
-Niger,2020-03-31,27,3,0,24
 Niger,2020-03-31,27,3,0,24
 Niger,2020-04-01,74,5,0,69
-Niger,2020-04-01,74,5,0,69
-Niger,2020-04-02,98,5,0,93
 Niger,2020-04-02,98,5,0,93
 Niger,2020-04-03,120,5,0,115
-Niger,2020-04-03,120,5,0,115
-Niger,2020-04-04,144,8,0,136
 Niger,2020-04-04,144,8,0,136
 Niger,2020-04-05,184,10,13,161
-Niger,2020-04-05,184,10,13,161
-Niger,2020-04-06,253,10,26,217
 Niger,2020-04-06,253,10,26,217
 Niger,2020-04-07,278,11,26,241
-Niger,2020-04-07,278,11,26,241
 Niger,2020-04-08,342,11,28,303
-Niger,2020-04-08,342,11,28,303
+Niger,2020-04-09,410,11,40,359
+Niger,2020-04-10,438,11,41,386
+Niger,2020-04-11,491,11,41,439
 Nigeria,2020-01-22,0,0,0,0
 Nigeria,2020-01-23,0,0,0,0
 Nigeria,2020-01-24,0,0,0,0
@@ -3776,87 +3035,49 @@ Nigeria,2020-02-25,0,0,0,0
 Nigeria,2020-02-26,0,0,0,0
 Nigeria,2020-02-27,0,0,0,0
 Nigeria,2020-02-28,1,0,0,1
-Nigeria,2020-02-28,1,0,0,1
-Nigeria,2020-02-29,1,0,0,1
 Nigeria,2020-02-29,1,0,0,1
 Nigeria,2020-03-01,1,0,0,1
-Nigeria,2020-03-01,1,0,0,1
-Nigeria,2020-03-02,1,0,0,1
 Nigeria,2020-03-02,1,0,0,1
 Nigeria,2020-03-03,1,0,0,1
-Nigeria,2020-03-03,1,0,0,1
-Nigeria,2020-03-04,1,0,0,1
 Nigeria,2020-03-04,1,0,0,1
 Nigeria,2020-03-05,1,0,0,1
-Nigeria,2020-03-05,1,0,0,1
-Nigeria,2020-03-06,1,0,0,1
 Nigeria,2020-03-06,1,0,0,1
 Nigeria,2020-03-07,1,0,0,1
-Nigeria,2020-03-07,1,0,0,1
-Nigeria,2020-03-08,1,0,0,1
 Nigeria,2020-03-08,1,0,0,1
 Nigeria,2020-03-09,2,0,0,2
-Nigeria,2020-03-09,2,0,0,2
-Nigeria,2020-03-10,2,0,0,2
 Nigeria,2020-03-10,2,0,0,2
 Nigeria,2020-03-11,2,0,0,2
-Nigeria,2020-03-11,2,0,0,2
-Nigeria,2020-03-12,2,0,0,2
 Nigeria,2020-03-12,2,0,0,2
 Nigeria,2020-03-13,2,0,0,2
-Nigeria,2020-03-13,2,0,0,2
-Nigeria,2020-03-14,2,0,0,2
 Nigeria,2020-03-14,2,0,0,2
 Nigeria,2020-03-15,2,0,0,2
-Nigeria,2020-03-15,2,0,0,2
-Nigeria,2020-03-16,2,0,0,2
 Nigeria,2020-03-16,2,0,0,2
 Nigeria,2020-03-17,3,0,0,3
-Nigeria,2020-03-17,3,0,0,3
-Nigeria,2020-03-18,8,0,1,7
 Nigeria,2020-03-18,8,0,1,7
 Nigeria,2020-03-19,8,0,1,7
-Nigeria,2020-03-19,8,0,1,7
-Nigeria,2020-03-20,12,0,1,11
 Nigeria,2020-03-20,12,0,1,11
 Nigeria,2020-03-21,22,0,1,21
-Nigeria,2020-03-21,22,0,1,21
-Nigeria,2020-03-22,30,0,2,28
 Nigeria,2020-03-22,30,0,2,28
 Nigeria,2020-03-23,40,1,2,37
-Nigeria,2020-03-23,40,1,2,37
-Nigeria,2020-03-24,44,1,2,41
 Nigeria,2020-03-24,44,1,2,41
 Nigeria,2020-03-25,51,1,2,48
-Nigeria,2020-03-25,51,1,2,48
-Nigeria,2020-03-26,65,1,2,62
 Nigeria,2020-03-26,65,1,2,62
 Nigeria,2020-03-27,70,1,3,66
-Nigeria,2020-03-27,70,1,3,66
-Nigeria,2020-03-28,89,1,3,85
 Nigeria,2020-03-28,89,1,3,85
 Nigeria,2020-03-29,111,1,3,107
-Nigeria,2020-03-29,111,1,3,107
-Nigeria,2020-03-30,131,2,8,121
 Nigeria,2020-03-30,131,2,8,121
 Nigeria,2020-03-31,135,2,8,125
-Nigeria,2020-03-31,135,2,8,125
-Nigeria,2020-04-01,174,2,9,163
 Nigeria,2020-04-01,174,2,9,163
 Nigeria,2020-04-02,184,2,20,162
-Nigeria,2020-04-02,184,2,20,162
-Nigeria,2020-04-03,210,4,25,181
 Nigeria,2020-04-03,210,4,25,181
 Nigeria,2020-04-04,214,4,25,185
-Nigeria,2020-04-04,214,4,25,185
-Nigeria,2020-04-05,232,5,33,194
 Nigeria,2020-04-05,232,5,33,194
 Nigeria,2020-04-06,238,5,35,198
-Nigeria,2020-04-06,238,5,35,198
-Nigeria,2020-04-07,254,6,44,204
 Nigeria,2020-04-07,254,6,44,204
 Nigeria,2020-04-08,276,6,44,226
-Nigeria,2020-04-08,276,6,44,226
+Nigeria,2020-04-09,288,7,51,230
+Nigeria,2020-04-10,305,7,58,240
+Nigeria,2020-04-11,318,10,70,238
 Republic of the Congo,2020-01-22,0,0,0,0
 Republic of the Congo,2020-01-23,0,0,0,0
 Republic of the Congo,2020-01-24,0,0,0,0
@@ -3911,67 +3132,39 @@ Republic of the Congo,2020-03-12,0,0,0,0
 Republic of the Congo,2020-03-13,0,0,0,0
 Republic of the Congo,2020-03-14,0,0,0,0
 Republic of the Congo,2020-03-15,1,0,0,1
-Republic of the Congo,2020-03-15,1,0,0,1
-Republic of the Congo,2020-03-16,1,0,0,1
-Republic of the Congo,2020-03-16,1,0,0,1
 Republic of the Congo,2020-03-16,1,0,0,1
 Republic of the Congo,2020-03-16,1,0,0,1
 Republic of the Congo,2020-03-17,1,0,0,1
 Republic of the Congo,2020-03-17,0,0,0,0
-Republic of the Congo,2020-03-17,1,0,0,1
-Republic of the Congo,2020-03-17,0,0,0,0
-Republic of the Congo,2020-03-18,1,0,0,1
-Republic of the Congo,2020-03-18,0,0,0,0
 Republic of the Congo,2020-03-18,1,0,0,1
 Republic of the Congo,2020-03-18,0,0,0,0
 Republic of the Congo,2020-03-19,3,0,0,3
 Republic of the Congo,2020-03-19,0,0,0,0
-Republic of the Congo,2020-03-19,3,0,0,3
-Republic of the Congo,2020-03-19,0,0,0,0
-Republic of the Congo,2020-03-20,3,0,0,3
-Republic of the Congo,2020-03-20,0,0,0,0
 Republic of the Congo,2020-03-20,3,0,0,3
 Republic of the Congo,2020-03-20,0,0,0,0
 Republic of the Congo,2020-03-21,3,0,0,3
 Republic of the Congo,2020-03-21,0,0,0,0
-Republic of the Congo,2020-03-21,3,0,0,3
-Republic of the Congo,2020-03-21,0,0,0,0
-Republic of the Congo,2020-03-22,3,0,0,3
 Republic of the Congo,2020-03-22,3,0,0,3
 Republic of the Congo,2020-03-23,4,0,0,4
-Republic of the Congo,2020-03-23,4,0,0,4
-Republic of the Congo,2020-03-24,4,0,0,4
 Republic of the Congo,2020-03-24,4,0,0,4
 Republic of the Congo,2020-03-25,4,0,0,4
-Republic of the Congo,2020-03-25,4,0,0,4
-Republic of the Congo,2020-03-26,4,0,0,4
 Republic of the Congo,2020-03-26,4,0,0,4
 Republic of the Congo,2020-03-27,4,0,0,4
-Republic of the Congo,2020-03-27,4,0,0,4
-Republic of the Congo,2020-03-28,4,0,0,4
 Republic of the Congo,2020-03-28,4,0,0,4
 Republic of the Congo,2020-03-29,19,0,0,19
-Republic of the Congo,2020-03-29,19,0,0,19
-Republic of the Congo,2020-03-30,19,0,0,19
 Republic of the Congo,2020-03-30,19,0,0,19
 Republic of the Congo,2020-03-31,19,0,0,19
-Republic of the Congo,2020-03-31,19,0,0,19
-Republic of the Congo,2020-04-01,19,0,0,19
 Republic of the Congo,2020-04-01,19,0,0,19
 Republic of the Congo,2020-04-02,22,2,2,18
-Republic of the Congo,2020-04-02,22,2,2,18
-Republic of the Congo,2020-04-03,22,2,2,18
 Republic of the Congo,2020-04-03,22,2,2,18
 Republic of the Congo,2020-04-04,22,2,2,18
-Republic of the Congo,2020-04-04,22,2,2,18
-Republic of the Congo,2020-04-05,45,5,2,38
 Republic of the Congo,2020-04-05,45,5,2,38
 Republic of the Congo,2020-04-06,45,5,2,38
-Republic of the Congo,2020-04-06,45,5,2,38
-Republic of the Congo,2020-04-07,45,5,2,38
 Republic of the Congo,2020-04-07,45,5,2,38
 Republic of the Congo,2020-04-08,45,5,2,38
-Republic of the Congo,2020-04-08,45,5,2,38
+Republic of the Congo,2020-04-09,60,5,5,50
+Republic of the Congo,2020-04-10,60,5,5,50
+Republic of the Congo,2020-04-11,60,5,5,50
 Reunion,2020-01-22,0,0,0,0
 Reunion,2020-01-23,0,0,0,0
 Reunion,2020-01-24,0,0,0,0
@@ -4022,26 +3215,15 @@ Reunion,2020-03-08,0,0,0,0
 Reunion,2020-03-09,0,0,0,0
 Reunion,2020-03-10,0,0,0,0
 Reunion,2020-03-11,1,0,0,1
-Reunion,2020-03-11,1,0,0,1
-Reunion,2020-03-12,1,0,0,1
 Reunion,2020-03-12,1,0,0,1
 Reunion,2020-03-13,5,0,0,5
-Reunion,2020-03-13,5,0,0,5
-Reunion,2020-03-14,6,0,0,6
 Reunion,2020-03-14,6,0,0,6
 Reunion,2020-03-15,7,0,0,7
-Reunion,2020-03-15,7,0,0,7
-Reunion,2020-03-16,9,0,0,9
 Reunion,2020-03-16,9,0,0,9
 Reunion,2020-03-17,9,0,0,9
-Reunion,2020-03-17,9,0,0,9
-Reunion,2020-03-18,12,0,0,12
 Reunion,2020-03-18,12,0,0,12
 Reunion,2020-03-19,14,0,0,14
-Reunion,2020-03-19,14,0,0,14
 Reunion,2020-03-20,28,0,0,28
-Reunion,2020-03-20,28,0,0,28
-Reunion,2020-03-21,45,0,0,45
 Reunion,2020-03-21,45,0,0,45
 Reunion,2020-03-22,0,0,0,0
 Reunion,2020-03-23,0,0,0,0
@@ -4061,6 +3243,9 @@ Reunion,2020-04-05,0,0,0,0
 Reunion,2020-04-06,0,0,0,0
 Reunion,2020-04-07,0,0,0,0
 Reunion,2020-04-08,0,0,0,0
+Reunion,2020-04-09,0,0,0,0
+Reunion,2020-04-10,0,0,0,0
+Reunion,2020-04-11,0,0,0,0
 Rwanda,2020-01-22,0,0,0,0
 Rwanda,2020-01-23,0,0,0,0
 Rwanda,2020-01-24,0,0,0,0
@@ -4114,57 +3299,34 @@ Rwanda,2020-03-11,0,0,0,0
 Rwanda,2020-03-12,0,0,0,0
 Rwanda,2020-03-13,0,0,0,0
 Rwanda,2020-03-14,1,0,0,1
-Rwanda,2020-03-14,1,0,0,1
-Rwanda,2020-03-15,1,0,0,1
 Rwanda,2020-03-15,1,0,0,1
 Rwanda,2020-03-16,5,0,0,5
-Rwanda,2020-03-16,5,0,0,5
-Rwanda,2020-03-17,7,0,0,7
 Rwanda,2020-03-17,7,0,0,7
 Rwanda,2020-03-18,8,0,0,8
-Rwanda,2020-03-18,8,0,0,8
-Rwanda,2020-03-19,8,0,0,8
 Rwanda,2020-03-19,8,0,0,8
 Rwanda,2020-03-20,17,0,0,17
-Rwanda,2020-03-20,17,0,0,17
-Rwanda,2020-03-21,17,0,0,17
 Rwanda,2020-03-21,17,0,0,17
 Rwanda,2020-03-22,19,0,0,19
-Rwanda,2020-03-22,19,0,0,19
-Rwanda,2020-03-23,36,0,0,36
 Rwanda,2020-03-23,36,0,0,36
 Rwanda,2020-03-24,40,0,0,40
-Rwanda,2020-03-24,40,0,0,40
-Rwanda,2020-03-25,41,0,0,41
 Rwanda,2020-03-25,41,0,0,41
 Rwanda,2020-03-26,50,0,0,50
-Rwanda,2020-03-26,50,0,0,50
-Rwanda,2020-03-27,54,0,0,54
 Rwanda,2020-03-27,54,0,0,54
 Rwanda,2020-03-28,60,0,0,60
-Rwanda,2020-03-28,60,0,0,60
-Rwanda,2020-03-29,70,0,0,70
 Rwanda,2020-03-29,70,0,0,70
 Rwanda,2020-03-30,70,0,0,70
-Rwanda,2020-03-30,70,0,0,70
-Rwanda,2020-03-31,75,0,0,75
 Rwanda,2020-03-31,75,0,0,75
 Rwanda,2020-04-01,82,0,0,82
-Rwanda,2020-04-01,82,0,0,82
-Rwanda,2020-04-02,84,0,0,84
 Rwanda,2020-04-02,84,0,0,84
 Rwanda,2020-04-03,89,0,0,89
-Rwanda,2020-04-03,89,0,0,89
-Rwanda,2020-04-04,102,0,0,102
 Rwanda,2020-04-04,102,0,0,102
 Rwanda,2020-04-05,104,0,4,100
-Rwanda,2020-04-05,104,0,4,100
-Rwanda,2020-04-06,105,0,4,101
 Rwanda,2020-04-06,105,0,4,101
 Rwanda,2020-04-07,105,0,7,98
-Rwanda,2020-04-07,105,0,7,98
 Rwanda,2020-04-08,110,0,7,103
-Rwanda,2020-04-08,110,0,7,103
+Rwanda,2020-04-09,110,0,7,103
+Rwanda,2020-04-10,118,0,7,111
+Rwanda,2020-04-11,120,0,18,102
 Senegal,2020-01-22,0,0,0,0
 Senegal,2020-01-23,0,0,0,0
 Senegal,2020-01-24,0,0,0,0
@@ -4206,81 +3368,46 @@ Senegal,2020-02-28,0,0,0,0
 Senegal,2020-02-29,0,0,0,0
 Senegal,2020-03-01,0,0,0,0
 Senegal,2020-03-02,1,0,0,1
-Senegal,2020-03-02,1,0,0,1
-Senegal,2020-03-03,2,0,0,2
 Senegal,2020-03-03,2,0,0,2
 Senegal,2020-03-04,4,0,0,4
-Senegal,2020-03-04,4,0,0,4
-Senegal,2020-03-05,4,0,0,4
 Senegal,2020-03-05,4,0,0,4
 Senegal,2020-03-06,4,0,0,4
-Senegal,2020-03-06,4,0,0,4
-Senegal,2020-03-07,4,0,0,4
 Senegal,2020-03-07,4,0,0,4
 Senegal,2020-03-08,4,0,1,3
-Senegal,2020-03-08,4,0,1,3
-Senegal,2020-03-09,4,0,1,3
 Senegal,2020-03-09,4,0,1,3
 Senegal,2020-03-10,4,0,1,3
-Senegal,2020-03-10,4,0,1,3
-Senegal,2020-03-11,4,0,1,3
 Senegal,2020-03-11,4,0,1,3
 Senegal,2020-03-12,4,0,1,3
-Senegal,2020-03-12,4,0,1,3
-Senegal,2020-03-13,10,0,1,9
 Senegal,2020-03-13,10,0,1,9
 Senegal,2020-03-14,10,0,1,9
-Senegal,2020-03-14,10,0,1,9
-Senegal,2020-03-15,24,0,1,23
 Senegal,2020-03-15,24,0,1,23
 Senegal,2020-03-16,24,0,2,22
-Senegal,2020-03-16,24,0,2,22
-Senegal,2020-03-17,26,0,2,24
 Senegal,2020-03-17,26,0,2,24
 Senegal,2020-03-18,31,0,2,29
-Senegal,2020-03-18,31,0,2,29
-Senegal,2020-03-19,31,0,2,29
 Senegal,2020-03-19,31,0,2,29
 Senegal,2020-03-20,38,0,2,36
-Senegal,2020-03-20,38,0,2,36
-Senegal,2020-03-21,47,0,5,42
 Senegal,2020-03-21,47,0,5,42
 Senegal,2020-03-22,67,0,5,62
-Senegal,2020-03-22,67,0,5,62
-Senegal,2020-03-23,79,0,8,71
 Senegal,2020-03-23,79,0,8,71
 Senegal,2020-03-24,86,0,8,78
-Senegal,2020-03-24,86,0,8,78
-Senegal,2020-03-25,99,0,9,90
 Senegal,2020-03-25,99,0,9,90
 Senegal,2020-03-26,105,0,9,96
-Senegal,2020-03-26,105,0,9,96
-Senegal,2020-03-27,119,0,11,108
 Senegal,2020-03-27,119,0,11,108
 Senegal,2020-03-28,130,0,18,112
-Senegal,2020-03-28,130,0,18,112
-Senegal,2020-03-29,142,0,27,115
 Senegal,2020-03-29,142,0,27,115
 Senegal,2020-03-30,162,0,27,135
-Senegal,2020-03-30,162,0,27,135
-Senegal,2020-03-31,175,0,40,135
 Senegal,2020-03-31,175,0,40,135
 Senegal,2020-04-01,190,1,45,144
-Senegal,2020-04-01,190,1,45,144
-Senegal,2020-04-02,195,1,55,139
 Senegal,2020-04-02,195,1,55,139
 Senegal,2020-04-03,207,1,66,140
-Senegal,2020-04-03,207,1,66,140
-Senegal,2020-04-04,219,2,72,145
 Senegal,2020-04-04,219,2,72,145
 Senegal,2020-04-05,222,2,82,138
-Senegal,2020-04-05,222,2,82,138
-Senegal,2020-04-06,226,2,92,132
 Senegal,2020-04-06,226,2,92,132
 Senegal,2020-04-07,237,2,105,130
-Senegal,2020-04-07,237,2,105,130
 Senegal,2020-04-08,244,2,113,129
-Senegal,2020-04-08,244,2,113,129
+Senegal,2020-04-09,250,2,123,125
+Senegal,2020-04-10,265,2,137,126
+Senegal,2020-04-11,278,2,152,124
 Seychelles,2020-01-22,0,0,0,0
 Seychelles,2020-01-23,0,0,0,0
 Seychelles,2020-01-24,0,0,0,0
@@ -4334,57 +3461,34 @@ Seychelles,2020-03-11,0,0,0,0
 Seychelles,2020-03-12,0,0,0,0
 Seychelles,2020-03-13,0,0,0,0
 Seychelles,2020-03-14,2,0,0,2
-Seychelles,2020-03-14,2,0,0,2
-Seychelles,2020-03-15,2,0,0,2
 Seychelles,2020-03-15,2,0,0,2
 Seychelles,2020-03-16,3,0,0,3
-Seychelles,2020-03-16,3,0,0,3
-Seychelles,2020-03-17,4,0,0,4
 Seychelles,2020-03-17,4,0,0,4
 Seychelles,2020-03-18,4,0,0,4
-Seychelles,2020-03-18,4,0,0,4
-Seychelles,2020-03-19,6,0,0,6
 Seychelles,2020-03-19,6,0,0,6
 Seychelles,2020-03-20,7,0,0,7
-Seychelles,2020-03-20,7,0,0,7
-Seychelles,2020-03-21,7,0,0,7
 Seychelles,2020-03-21,7,0,0,7
 Seychelles,2020-03-22,7,0,0,7
-Seychelles,2020-03-22,7,0,0,7
-Seychelles,2020-03-23,7,0,0,7
 Seychelles,2020-03-23,7,0,0,7
 Seychelles,2020-03-24,7,0,0,7
-Seychelles,2020-03-24,7,0,0,7
-Seychelles,2020-03-25,7,0,0,7
 Seychelles,2020-03-25,7,0,0,7
 Seychelles,2020-03-26,7,0,0,7
-Seychelles,2020-03-26,7,0,0,7
-Seychelles,2020-03-27,7,0,0,7
 Seychelles,2020-03-27,7,0,0,7
 Seychelles,2020-03-28,8,0,0,8
-Seychelles,2020-03-28,8,0,0,8
-Seychelles,2020-03-29,8,0,0,8
 Seychelles,2020-03-29,8,0,0,8
 Seychelles,2020-03-30,8,0,0,8
-Seychelles,2020-03-30,8,0,0,8
-Seychelles,2020-03-31,10,0,0,10
 Seychelles,2020-03-31,10,0,0,10
 Seychelles,2020-04-01,10,0,0,10
-Seychelles,2020-04-01,10,0,0,10
-Seychelles,2020-04-02,10,0,0,10
 Seychelles,2020-04-02,10,0,0,10
 Seychelles,2020-04-03,10,0,0,10
-Seychelles,2020-04-03,10,0,0,10
-Seychelles,2020-04-04,10,0,0,10
 Seychelles,2020-04-04,10,0,0,10
 Seychelles,2020-04-05,10,0,0,10
-Seychelles,2020-04-05,10,0,0,10
-Seychelles,2020-04-06,11,0,0,11
 Seychelles,2020-04-06,11,0,0,11
 Seychelles,2020-04-07,11,0,0,11
-Seychelles,2020-04-07,11,0,0,11
 Seychelles,2020-04-08,11,0,0,11
-Seychelles,2020-04-08,11,0,0,11
+Seychelles,2020-04-09,11,0,0,11
+Seychelles,2020-04-10,11,0,0,11
+Seychelles,2020-04-11,11,0,0,11
 Sierra Leone,2020-01-22,0,0,0,0
 Sierra Leone,2020-01-23,0,0,0,0
 Sierra Leone,2020-01-24,0,0,0,0
@@ -4455,23 +3559,17 @@ Sierra Leone,2020-03-28,0,0,0,0
 Sierra Leone,2020-03-29,0,0,0,0
 Sierra Leone,2020-03-30,0,0,0,0
 Sierra Leone,2020-03-31,1,0,0,1
-Sierra Leone,2020-03-31,1,0,0,1
-Sierra Leone,2020-04-01,2,0,0,2
 Sierra Leone,2020-04-01,2,0,0,2
 Sierra Leone,2020-04-02,2,0,0,2
-Sierra Leone,2020-04-02,2,0,0,2
-Sierra Leone,2020-04-03,2,0,0,2
 Sierra Leone,2020-04-03,2,0,0,2
 Sierra Leone,2020-04-04,4,0,0,4
-Sierra Leone,2020-04-04,4,0,0,4
-Sierra Leone,2020-04-05,6,0,0,6
 Sierra Leone,2020-04-05,6,0,0,6
 Sierra Leone,2020-04-06,6,0,0,6
-Sierra Leone,2020-04-06,6,0,0,6
-Sierra Leone,2020-04-07,6,0,0,6
 Sierra Leone,2020-04-07,6,0,0,6
 Sierra Leone,2020-04-08,7,0,0,7
-Sierra Leone,2020-04-08,7,0,0,7
+Sierra Leone,2020-04-09,7,0,0,7
+Sierra Leone,2020-04-10,8,0,0,8
+Sierra Leone,2020-04-11,8,0,0,8
 Somalia,2020-01-22,0,0,0,0
 Somalia,2020-01-23,0,0,0,0
 Somalia,2020-01-24,0,0,0,0
@@ -4527,53 +3625,32 @@ Somalia,2020-03-13,0,0,0,0
 Somalia,2020-03-14,0,0,0,0
 Somalia,2020-03-15,0,0,0,0
 Somalia,2020-03-16,1,0,0,1
-Somalia,2020-03-16,1,0,0,1
-Somalia,2020-03-17,1,0,0,1
 Somalia,2020-03-17,1,0,0,1
 Somalia,2020-03-18,1,0,0,1
-Somalia,2020-03-18,1,0,0,1
-Somalia,2020-03-19,1,0,0,1
 Somalia,2020-03-19,1,0,0,1
 Somalia,2020-03-20,1,0,0,1
-Somalia,2020-03-20,1,0,0,1
-Somalia,2020-03-21,1,0,0,1
 Somalia,2020-03-21,1,0,0,1
 Somalia,2020-03-22,1,0,0,1
-Somalia,2020-03-22,1,0,0,1
-Somalia,2020-03-23,1,0,0,1
 Somalia,2020-03-23,1,0,0,1
 Somalia,2020-03-24,1,0,0,1
-Somalia,2020-03-24,1,0,0,1
-Somalia,2020-03-25,1,0,0,1
 Somalia,2020-03-25,1,0,0,1
 Somalia,2020-03-26,2,0,0,2
-Somalia,2020-03-26,2,0,0,2
-Somalia,2020-03-27,3,0,0,3
 Somalia,2020-03-27,3,0,0,3
 Somalia,2020-03-28,3,0,0,3
-Somalia,2020-03-28,3,0,0,3
-Somalia,2020-03-29,3,0,0,3
 Somalia,2020-03-29,3,0,0,3
 Somalia,2020-03-30,3,0,0,3
-Somalia,2020-03-30,3,0,0,3
-Somalia,2020-03-31,5,0,1,4
 Somalia,2020-03-31,5,0,1,4
 Somalia,2020-04-01,5,0,1,4
-Somalia,2020-04-01,5,0,1,4
-Somalia,2020-04-02,5,0,1,4
 Somalia,2020-04-02,5,0,1,4
 Somalia,2020-04-03,7,0,1,6
-Somalia,2020-04-03,7,0,1,6
-Somalia,2020-04-04,7,0,1,6
 Somalia,2020-04-04,7,0,1,6
 Somalia,2020-04-05,7,0,1,6
-Somalia,2020-04-05,7,0,1,6
-Somalia,2020-04-06,7,0,1,6
 Somalia,2020-04-06,7,0,1,6
 Somalia,2020-04-07,8,0,1,7
-Somalia,2020-04-07,8,0,1,7
 Somalia,2020-04-08,12,1,1,10
-Somalia,2020-04-08,12,1,1,10
+Somalia,2020-04-09,12,1,1,10
+Somalia,2020-04-10,21,1,1,19
+Somalia,2020-04-11,21,1,1,19
 South Africa,2020-01-22,0,0,0,0
 South Africa,2020-01-23,0,0,0,0
 South Africa,2020-01-24,0,0,0,0
@@ -4618,75 +3695,43 @@ South Africa,2020-03-02,0,0,0,0
 South Africa,2020-03-03,0,0,0,0
 South Africa,2020-03-04,0,0,0,0
 South Africa,2020-03-05,1,0,0,1
-South Africa,2020-03-05,1,0,0,1
-South Africa,2020-03-06,1,0,0,1
 South Africa,2020-03-06,1,0,0,1
 South Africa,2020-03-07,1,0,0,1
-South Africa,2020-03-07,1,0,0,1
-South Africa,2020-03-08,3,0,0,3
 South Africa,2020-03-08,3,0,0,3
 South Africa,2020-03-09,3,0,0,3
-South Africa,2020-03-09,3,0,0,3
-South Africa,2020-03-10,7,0,0,7
 South Africa,2020-03-10,7,0,0,7
 South Africa,2020-03-11,13,0,0,13
-South Africa,2020-03-11,13,0,0,13
-South Africa,2020-03-12,17,0,0,17
 South Africa,2020-03-12,17,0,0,17
 South Africa,2020-03-13,24,0,0,24
-South Africa,2020-03-13,24,0,0,24
-South Africa,2020-03-14,38,0,0,38
 South Africa,2020-03-14,38,0,0,38
 South Africa,2020-03-15,51,0,0,51
-South Africa,2020-03-15,51,0,0,51
-South Africa,2020-03-16,62,0,0,62
 South Africa,2020-03-16,62,0,0,62
 South Africa,2020-03-17,62,0,0,62
-South Africa,2020-03-17,62,0,0,62
-South Africa,2020-03-18,116,0,0,116
 South Africa,2020-03-18,116,0,0,116
 South Africa,2020-03-19,150,0,0,150
-South Africa,2020-03-19,150,0,0,150
-South Africa,2020-03-20,202,0,0,202
 South Africa,2020-03-20,202,0,0,202
 South Africa,2020-03-21,240,0,0,240
-South Africa,2020-03-21,240,0,0,240
-South Africa,2020-03-22,274,0,2,272
 South Africa,2020-03-22,274,0,2,272
 South Africa,2020-03-23,402,0,4,398
-South Africa,2020-03-23,402,0,4,398
-South Africa,2020-03-24,554,0,4,550
 South Africa,2020-03-24,554,0,4,550
 South Africa,2020-03-25,709,0,12,697
-South Africa,2020-03-25,709,0,12,697
-South Africa,2020-03-26,927,0,12,915
 South Africa,2020-03-26,927,0,12,915
 South Africa,2020-03-27,1170,1,31,1138
-South Africa,2020-03-27,1170,1,31,1138
-South Africa,2020-03-28,1187,1,31,1155
 South Africa,2020-03-28,1187,1,31,1155
 South Africa,2020-03-29,1280,2,31,1247
-South Africa,2020-03-29,1280,2,31,1247
-South Africa,2020-03-30,1326,3,31,1292
 South Africa,2020-03-30,1326,3,31,1292
 South Africa,2020-03-31,1353,5,31,1317
-South Africa,2020-03-31,1353,5,31,1317
-South Africa,2020-04-01,1380,5,50,1325
 South Africa,2020-04-01,1380,5,50,1325
 South Africa,2020-04-02,1462,5,50,1407
-South Africa,2020-04-02,1462,5,50,1407
-South Africa,2020-04-03,1505,9,95,1401
 South Africa,2020-04-03,1505,9,95,1401
 South Africa,2020-04-04,1585,9,95,1481
-South Africa,2020-04-04,1585,9,95,1481
-South Africa,2020-04-05,1655,11,95,1549
 South Africa,2020-04-05,1655,11,95,1549
 South Africa,2020-04-06,1686,12,95,1579
-South Africa,2020-04-06,1686,12,95,1579
-South Africa,2020-04-07,1749,13,95,1641
 South Africa,2020-04-07,1749,13,95,1641
 South Africa,2020-04-08,1845,18,95,1732
-South Africa,2020-04-08,1845,18,95,1732
+South Africa,2020-04-09,1934,18,95,1821
+South Africa,2020-04-10,2003,24,410,1569
+South Africa,2020-04-11,2028,25,410,1593
 South Sudan,2020-01-22,0,0,0,0
 South Sudan,2020-01-23,0,0,0,0
 South Sudan,2020-01-24,0,0,0,0
@@ -4762,13 +3807,12 @@ South Sudan,2020-04-02,0,0,0,0
 South Sudan,2020-04-03,0,0,0,0
 South Sudan,2020-04-04,0,0,0,0
 South Sudan,2020-04-05,1,0,0,1
-South Sudan,2020-04-05,1,0,0,1
-South Sudan,2020-04-06,1,0,0,1
 South Sudan,2020-04-06,1,0,0,1
 South Sudan,2020-04-07,2,0,0,2
-South Sudan,2020-04-07,2,0,0,2
 South Sudan,2020-04-08,2,0,0,2
-South Sudan,2020-04-08,2,0,0,2
+South Sudan,2020-04-09,3,0,0,3
+South Sudan,2020-04-10,4,0,0,4
+South Sudan,2020-04-11,4,0,0,4
 Sudan,2020-01-22,0,0,0,0
 Sudan,2020-01-23,0,0,0,0
 Sudan,2020-01-24,0,0,0,0
@@ -4821,59 +3865,35 @@ Sudan,2020-03-10,0,0,0,0
 Sudan,2020-03-11,0,0,0,0
 Sudan,2020-03-12,0,0,0,0
 Sudan,2020-03-13,1,1,0,0
-Sudan,2020-03-13,1,1,0,0
-Sudan,2020-03-14,1,1,0,0
 Sudan,2020-03-14,1,1,0,0
 Sudan,2020-03-15,1,1,0,0
-Sudan,2020-03-15,1,1,0,0
-Sudan,2020-03-16,1,1,0,0
 Sudan,2020-03-16,1,1,0,0
 Sudan,2020-03-17,1,1,0,0
-Sudan,2020-03-17,1,1,0,0
-Sudan,2020-03-18,2,1,0,1
 Sudan,2020-03-18,2,1,0,1
 Sudan,2020-03-19,2,1,0,1
-Sudan,2020-03-19,2,1,0,1
-Sudan,2020-03-20,2,1,0,1
 Sudan,2020-03-20,2,1,0,1
 Sudan,2020-03-21,2,1,0,1
-Sudan,2020-03-21,2,1,0,1
-Sudan,2020-03-22,2,1,0,1
 Sudan,2020-03-22,2,1,0,1
 Sudan,2020-03-23,2,1,0,1
-Sudan,2020-03-23,2,1,0,1
-Sudan,2020-03-24,3,1,0,2
 Sudan,2020-03-24,3,1,0,2
 Sudan,2020-03-25,3,1,0,2
-Sudan,2020-03-25,3,1,0,2
-Sudan,2020-03-26,3,1,0,2
 Sudan,2020-03-26,3,1,0,2
 Sudan,2020-03-27,3,1,0,2
-Sudan,2020-03-27,3,1,0,2
-Sudan,2020-03-28,5,1,0,4
 Sudan,2020-03-28,5,1,0,4
 Sudan,2020-03-29,6,1,0,5
-Sudan,2020-03-29,6,1,0,5
-Sudan,2020-03-30,6,2,0,4
 Sudan,2020-03-30,6,2,0,4
 Sudan,2020-03-31,7,2,1,4
-Sudan,2020-03-31,7,2,1,4
-Sudan,2020-04-01,7,2,2,3
 Sudan,2020-04-01,7,2,2,3
 Sudan,2020-04-02,8,2,2,4
-Sudan,2020-04-02,8,2,2,4
-Sudan,2020-04-03,10,2,2,6
 Sudan,2020-04-03,10,2,2,6
 Sudan,2020-04-04,10,2,2,6
-Sudan,2020-04-04,10,2,2,6
-Sudan,2020-04-05,12,2,2,8
 Sudan,2020-04-05,12,2,2,8
 Sudan,2020-04-06,12,2,2,8
-Sudan,2020-04-06,12,2,2,8
-Sudan,2020-04-07,14,2,2,10
 Sudan,2020-04-07,14,2,2,10
 Sudan,2020-04-08,14,2,2,10
-Sudan,2020-04-08,14,2,2,10
+Sudan,2020-04-09,15,2,2,11
+Sudan,2020-04-10,17,2,2,13
+Sudan,2020-04-11,19,2,2,15
 Tanzania,2020-01-22,0,0,0,0
 Tanzania,2020-01-23,0,0,0,0
 Tanzania,2020-01-24,0,0,0,0
@@ -4929,53 +3949,32 @@ Tanzania,2020-03-13,0,0,0,0
 Tanzania,2020-03-14,0,0,0,0
 Tanzania,2020-03-15,0,0,0,0
 Tanzania,2020-03-16,1,0,0,1
-Tanzania,2020-03-16,1,0,0,1
-Tanzania,2020-03-17,1,0,0,1
 Tanzania,2020-03-17,1,0,0,1
 Tanzania,2020-03-18,3,0,0,3
-Tanzania,2020-03-18,3,0,0,3
-Tanzania,2020-03-19,6,0,0,6
 Tanzania,2020-03-19,6,0,0,6
 Tanzania,2020-03-20,6,0,0,6
-Tanzania,2020-03-20,6,0,0,6
-Tanzania,2020-03-21,6,0,0,6
 Tanzania,2020-03-21,6,0,0,6
 Tanzania,2020-03-22,12,0,0,12
-Tanzania,2020-03-22,12,0,0,12
-Tanzania,2020-03-23,12,0,0,12
 Tanzania,2020-03-23,12,0,0,12
 Tanzania,2020-03-24,12,0,0,12
-Tanzania,2020-03-24,12,0,0,12
-Tanzania,2020-03-25,12,0,0,12
 Tanzania,2020-03-25,12,0,0,12
 Tanzania,2020-03-26,13,0,0,13
-Tanzania,2020-03-26,13,0,0,13
-Tanzania,2020-03-27,13,0,1,12
 Tanzania,2020-03-27,13,0,1,12
 Tanzania,2020-03-28,14,0,1,13
-Tanzania,2020-03-28,14,0,1,13
-Tanzania,2020-03-29,14,0,1,13
 Tanzania,2020-03-29,14,0,1,13
 Tanzania,2020-03-30,19,0,1,18
-Tanzania,2020-03-30,19,0,1,18
-Tanzania,2020-03-31,19,1,1,17
 Tanzania,2020-03-31,19,1,1,17
 Tanzania,2020-04-01,20,1,1,18
-Tanzania,2020-04-01,20,1,1,18
-Tanzania,2020-04-02,20,1,2,17
 Tanzania,2020-04-02,20,1,2,17
 Tanzania,2020-04-03,20,1,3,16
-Tanzania,2020-04-03,20,1,3,16
-Tanzania,2020-04-04,20,1,3,16
 Tanzania,2020-04-04,20,1,3,16
 Tanzania,2020-04-05,22,1,3,18
-Tanzania,2020-04-05,22,1,3,18
-Tanzania,2020-04-06,24,1,3,20
 Tanzania,2020-04-06,24,1,3,20
 Tanzania,2020-04-07,24,1,5,18
-Tanzania,2020-04-07,24,1,5,18
 Tanzania,2020-04-08,25,1,5,19
-Tanzania,2020-04-08,25,1,5,19
+Tanzania,2020-04-09,25,1,5,19
+Tanzania,2020-04-10,32,3,5,24
+Tanzania,2020-04-11,32,3,5,24
 Togo,2020-01-22,0,0,0,0
 Togo,2020-01-23,0,0,0,0
 Togo,2020-01-24,0,0,0,0
@@ -5021,73 +4020,42 @@ Togo,2020-03-03,0,0,0,0
 Togo,2020-03-04,0,0,0,0
 Togo,2020-03-05,0,0,0,0
 Togo,2020-03-06,1,0,0,1
-Togo,2020-03-06,1,0,0,1
-Togo,2020-03-07,1,0,0,1
 Togo,2020-03-07,1,0,0,1
 Togo,2020-03-08,1,0,0,1
-Togo,2020-03-08,1,0,0,1
-Togo,2020-03-09,1,0,0,1
 Togo,2020-03-09,1,0,0,1
 Togo,2020-03-10,1,0,0,1
-Togo,2020-03-10,1,0,0,1
-Togo,2020-03-11,1,0,0,1
 Togo,2020-03-11,1,0,0,1
 Togo,2020-03-12,1,0,0,1
-Togo,2020-03-12,1,0,0,1
-Togo,2020-03-13,1,0,0,1
 Togo,2020-03-13,1,0,0,1
 Togo,2020-03-14,1,0,0,1
-Togo,2020-03-14,1,0,0,1
-Togo,2020-03-15,1,0,0,1
 Togo,2020-03-15,1,0,0,1
 Togo,2020-03-16,1,0,0,1
-Togo,2020-03-16,1,0,0,1
-Togo,2020-03-17,1,0,0,1
 Togo,2020-03-17,1,0,0,1
 Togo,2020-03-18,1,0,0,1
-Togo,2020-03-18,1,0,0,1
-Togo,2020-03-19,1,0,0,1
 Togo,2020-03-19,1,0,0,1
 Togo,2020-03-20,9,0,1,8
-Togo,2020-03-20,9,0,1,8
-Togo,2020-03-21,16,0,1,15
 Togo,2020-03-21,16,0,1,15
 Togo,2020-03-22,16,0,0,16
-Togo,2020-03-22,16,0,0,16
-Togo,2020-03-23,18,0,0,18
 Togo,2020-03-23,18,0,0,18
 Togo,2020-03-24,20,0,1,19
-Togo,2020-03-24,20,0,1,19
-Togo,2020-03-25,23,0,1,22
 Togo,2020-03-25,23,0,1,22
 Togo,2020-03-26,23,0,1,22
-Togo,2020-03-26,23,0,1,22
-Togo,2020-03-27,25,1,1,23
 Togo,2020-03-27,25,1,1,23
 Togo,2020-03-28,25,1,1,23
-Togo,2020-03-28,25,1,1,23
-Togo,2020-03-29,25,1,1,23
 Togo,2020-03-29,25,1,1,23
 Togo,2020-03-30,30,1,1,28
-Togo,2020-03-30,30,1,1,28
-Togo,2020-03-31,34,1,10,23
 Togo,2020-03-31,34,1,10,23
 Togo,2020-04-01,36,2,10,24
-Togo,2020-04-01,36,2,10,24
-Togo,2020-04-02,39,2,17,20
 Togo,2020-04-02,39,2,17,20
 Togo,2020-04-03,40,3,17,20
-Togo,2020-04-03,40,3,17,20
-Togo,2020-04-04,41,3,17,21
 Togo,2020-04-04,41,3,17,21
 Togo,2020-04-05,44,3,20,21
-Togo,2020-04-05,44,3,20,21
-Togo,2020-04-06,58,3,23,32
 Togo,2020-04-06,58,3,23,32
 Togo,2020-04-07,65,3,23,39
-Togo,2020-04-07,65,3,23,39
 Togo,2020-04-08,70,3,23,44
-Togo,2020-04-08,70,3,23,44
+Togo,2020-04-09,73,3,24,46
+Togo,2020-04-10,76,3,25,48
+Togo,2020-04-11,76,3,25,48
 Tunisia,2020-01-22,0,0,0,0
 Tunisia,2020-01-23,0,0,0,0
 Tunisia,2020-01-24,0,0,0,0
@@ -5131,77 +4099,44 @@ Tunisia,2020-03-01,0,0,0,0
 Tunisia,2020-03-02,0,0,0,0
 Tunisia,2020-03-03,0,0,0,0
 Tunisia,2020-03-04,1,0,0,1
-Tunisia,2020-03-04,1,0,0,1
-Tunisia,2020-03-05,1,0,0,1
 Tunisia,2020-03-05,1,0,0,1
 Tunisia,2020-03-06,1,0,0,1
-Tunisia,2020-03-06,1,0,0,1
-Tunisia,2020-03-07,1,0,0,1
 Tunisia,2020-03-07,1,0,0,1
 Tunisia,2020-03-08,2,0,0,2
-Tunisia,2020-03-08,2,0,0,2
-Tunisia,2020-03-09,2,0,0,2
 Tunisia,2020-03-09,2,0,0,2
 Tunisia,2020-03-10,5,0,0,5
-Tunisia,2020-03-10,5,0,0,5
-Tunisia,2020-03-11,7,0,0,7
 Tunisia,2020-03-11,7,0,0,7
 Tunisia,2020-03-12,7,0,0,7
-Tunisia,2020-03-12,7,0,0,7
-Tunisia,2020-03-13,16,0,0,16
 Tunisia,2020-03-13,16,0,0,16
 Tunisia,2020-03-14,18,0,0,18
-Tunisia,2020-03-14,18,0,0,18
-Tunisia,2020-03-15,18,0,0,18
 Tunisia,2020-03-15,18,0,0,18
 Tunisia,2020-03-16,20,0,0,20
-Tunisia,2020-03-16,20,0,0,20
-Tunisia,2020-03-17,24,0,0,24
 Tunisia,2020-03-17,24,0,0,24
 Tunisia,2020-03-18,29,0,0,29
-Tunisia,2020-03-18,29,0,0,29
-Tunisia,2020-03-19,39,1,0,38
 Tunisia,2020-03-19,39,1,0,38
 Tunisia,2020-03-20,54,1,0,53
-Tunisia,2020-03-20,54,1,0,53
-Tunisia,2020-03-21,60,1,0,59
 Tunisia,2020-03-21,60,1,0,59
 Tunisia,2020-03-22,75,3,1,71
-Tunisia,2020-03-22,75,3,1,71
-Tunisia,2020-03-23,89,3,1,85
 Tunisia,2020-03-23,89,3,1,85
 Tunisia,2020-03-24,114,4,1,109
-Tunisia,2020-03-24,114,4,1,109
-Tunisia,2020-03-25,173,5,2,166
 Tunisia,2020-03-25,173,5,2,166
 Tunisia,2020-03-26,197,6,2,189
-Tunisia,2020-03-26,197,6,2,189
-Tunisia,2020-03-27,227,6,2,219
 Tunisia,2020-03-27,227,6,2,219
 Tunisia,2020-03-28,278,8,2,268
-Tunisia,2020-03-28,278,8,2,268
-Tunisia,2020-03-29,312,8,2,302
 Tunisia,2020-03-29,312,8,2,302
 Tunisia,2020-03-30,312,8,3,301
-Tunisia,2020-03-30,312,8,3,301
-Tunisia,2020-03-31,394,10,3,381
 Tunisia,2020-03-31,394,10,3,381
 Tunisia,2020-04-01,423,12,5,406
-Tunisia,2020-04-01,423,12,5,406
-Tunisia,2020-04-02,455,14,5,436
 Tunisia,2020-04-02,455,14,5,436
 Tunisia,2020-04-03,495,18,5,472
-Tunisia,2020-04-03,495,18,5,472
-Tunisia,2020-04-04,553,18,5,530
 Tunisia,2020-04-04,553,18,5,530
 Tunisia,2020-04-05,574,22,5,547
-Tunisia,2020-04-05,574,22,5,547
-Tunisia,2020-04-06,596,22,5,569
 Tunisia,2020-04-06,596,22,5,569
 Tunisia,2020-04-07,623,23,25,575
-Tunisia,2020-04-07,623,23,25,575
 Tunisia,2020-04-08,628,24,25,579
-Tunisia,2020-04-08,628,24,25,579
+Tunisia,2020-04-09,643,25,25,593
+Tunisia,2020-04-10,671,25,25,621
+Tunisia,2020-04-11,685,28,43,614
 Uganda,2020-01-22,0,0,0,0
 Uganda,2020-01-23,0,0,0,0
 Uganda,2020-01-24,0,0,0,0
@@ -5262,43 +4197,27 @@ Uganda,2020-03-18,0,0,0,0
 Uganda,2020-03-19,0,0,0,0
 Uganda,2020-03-20,0,0,0,0
 Uganda,2020-03-21,1,0,0,1
-Uganda,2020-03-21,1,0,0,1
-Uganda,2020-03-22,1,0,0,1
 Uganda,2020-03-22,1,0,0,1
 Uganda,2020-03-23,9,0,0,9
-Uganda,2020-03-23,9,0,0,9
-Uganda,2020-03-24,9,0,0,9
 Uganda,2020-03-24,9,0,0,9
 Uganda,2020-03-25,14,0,0,14
-Uganda,2020-03-25,14,0,0,14
-Uganda,2020-03-26,14,0,0,14
 Uganda,2020-03-26,14,0,0,14
 Uganda,2020-03-27,23,0,0,23
-Uganda,2020-03-27,23,0,0,23
-Uganda,2020-03-28,30,0,0,30
 Uganda,2020-03-28,30,0,0,30
 Uganda,2020-03-29,33,0,0,33
-Uganda,2020-03-29,33,0,0,33
-Uganda,2020-03-30,33,0,0,33
 Uganda,2020-03-30,33,0,0,33
 Uganda,2020-03-31,44,0,0,44
-Uganda,2020-03-31,44,0,0,44
-Uganda,2020-04-01,44,0,0,44
 Uganda,2020-04-01,44,0,0,44
 Uganda,2020-04-02,45,0,0,45
-Uganda,2020-04-02,45,0,0,45
-Uganda,2020-04-03,48,0,0,48
 Uganda,2020-04-03,48,0,0,48
 Uganda,2020-04-04,48,0,0,48
-Uganda,2020-04-04,48,0,0,48
-Uganda,2020-04-05,52,0,0,52
 Uganda,2020-04-05,52,0,0,52
 Uganda,2020-04-06,52,0,0,52
-Uganda,2020-04-06,52,0,0,52
-Uganda,2020-04-07,52,0,0,52
 Uganda,2020-04-07,52,0,0,52
 Uganda,2020-04-08,53,0,0,53
-Uganda,2020-04-08,53,0,0,53
+Uganda,2020-04-09,53,0,0,53
+Uganda,2020-04-10,53,0,0,53
+Uganda,2020-04-11,53,0,4,49
 Zambia,2020-01-22,0,0,0,0
 Zambia,2020-01-23,0,0,0,0
 Zambia,2020-01-24,0,0,0,0
@@ -5356,49 +4275,30 @@ Zambia,2020-03-15,0,0,0,0
 Zambia,2020-03-16,0,0,0,0
 Zambia,2020-03-17,0,0,0,0
 Zambia,2020-03-18,2,0,0,2
-Zambia,2020-03-18,2,0,0,2
-Zambia,2020-03-19,2,0,0,2
 Zambia,2020-03-19,2,0,0,2
 Zambia,2020-03-20,2,0,0,2
-Zambia,2020-03-20,2,0,0,2
-Zambia,2020-03-21,2,0,0,2
 Zambia,2020-03-21,2,0,0,2
 Zambia,2020-03-22,3,0,0,3
-Zambia,2020-03-22,3,0,0,3
-Zambia,2020-03-23,3,0,0,3
 Zambia,2020-03-23,3,0,0,3
 Zambia,2020-03-24,3,0,0,3
-Zambia,2020-03-24,3,0,0,3
-Zambia,2020-03-25,12,0,0,12
 Zambia,2020-03-25,12,0,0,12
 Zambia,2020-03-26,16,0,0,16
-Zambia,2020-03-26,16,0,0,16
-Zambia,2020-03-27,22,0,0,22
 Zambia,2020-03-27,22,0,0,22
 Zambia,2020-03-28,28,0,0,28
-Zambia,2020-03-28,28,0,0,28
-Zambia,2020-03-29,29,0,0,29
 Zambia,2020-03-29,29,0,0,29
 Zambia,2020-03-30,35,0,0,35
-Zambia,2020-03-30,35,0,0,35
-Zambia,2020-03-31,35,0,0,35
 Zambia,2020-03-31,35,0,0,35
 Zambia,2020-04-01,36,0,0,36
-Zambia,2020-04-01,36,0,0,36
-Zambia,2020-04-02,39,1,0,38
 Zambia,2020-04-02,39,1,0,38
 Zambia,2020-04-03,39,1,2,36
-Zambia,2020-04-03,39,1,2,36
-Zambia,2020-04-04,39,1,2,36
 Zambia,2020-04-04,39,1,2,36
 Zambia,2020-04-05,39,1,3,35
-Zambia,2020-04-05,39,1,3,35
-Zambia,2020-04-06,39,1,5,33
 Zambia,2020-04-06,39,1,5,33
 Zambia,2020-04-07,39,1,7,31
-Zambia,2020-04-07,39,1,7,31
 Zambia,2020-04-08,39,1,7,31
-Zambia,2020-04-08,39,1,7,31
+Zambia,2020-04-09,39,1,24,14
+Zambia,2020-04-10,40,2,25,13
+Zambia,2020-04-11,40,2,28,10
 Zimbabwe,2020-01-22,0,0,0,0
 Zimbabwe,2020-01-23,0,0,0,0
 Zimbabwe,2020-01-24,0,0,0,0
@@ -5458,42 +4358,25 @@ Zimbabwe,2020-03-17,0,0,0,0
 Zimbabwe,2020-03-18,0,0,0,0
 Zimbabwe,2020-03-19,0,0,0,0
 Zimbabwe,2020-03-20,1,0,0,1
-Zimbabwe,2020-03-20,1,0,0,1
-Zimbabwe,2020-03-21,3,0,0,3
 Zimbabwe,2020-03-21,3,0,0,3
 Zimbabwe,2020-03-22,3,0,0,3
-Zimbabwe,2020-03-22,3,0,0,3
-Zimbabwe,2020-03-23,3,1,0,2
 Zimbabwe,2020-03-23,3,1,0,2
 Zimbabwe,2020-03-24,3,1,0,2
-Zimbabwe,2020-03-24,3,1,0,2
-Zimbabwe,2020-03-25,3,1,0,2
 Zimbabwe,2020-03-25,3,1,0,2
 Zimbabwe,2020-03-26,3,1,0,2
-Zimbabwe,2020-03-26,3,1,0,2
-Zimbabwe,2020-03-27,5,1,0,4
 Zimbabwe,2020-03-27,5,1,0,4
 Zimbabwe,2020-03-28,7,1,0,6
-Zimbabwe,2020-03-28,7,1,0,6
-Zimbabwe,2020-03-29,7,1,0,6
 Zimbabwe,2020-03-29,7,1,0,6
 Zimbabwe,2020-03-30,7,1,0,6
-Zimbabwe,2020-03-30,7,1,0,6
-Zimbabwe,2020-03-31,8,1,0,7
 Zimbabwe,2020-03-31,8,1,0,7
 Zimbabwe,2020-04-01,8,1,0,7
-Zimbabwe,2020-04-01,8,1,0,7
-Zimbabwe,2020-04-02,9,1,0,8
 Zimbabwe,2020-04-02,9,1,0,8
 Zimbabwe,2020-04-03,9,1,0,8
-Zimbabwe,2020-04-03,9,1,0,8
-Zimbabwe,2020-04-04,9,1,0,8
 Zimbabwe,2020-04-04,9,1,0,8
 Zimbabwe,2020-04-05,9,1,0,8
-Zimbabwe,2020-04-05,9,1,0,8
-Zimbabwe,2020-04-06,10,1,0,9
 Zimbabwe,2020-04-06,10,1,0,9
 Zimbabwe,2020-04-07,11,2,0,9
-Zimbabwe,2020-04-07,11,2,0,9
 Zimbabwe,2020-04-08,11,3,0,8
-Zimbabwe,2020-04-08,11,3,0,8
+Zimbabwe,2020-04-09,11,3,0,8
+Zimbabwe,2020-04-10,13,3,0,10
+Zimbabwe,2020-04-11,14,3,0,11
