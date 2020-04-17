@@ -5,45 +5,57 @@ library(forecast)
 library(scales)
 library(leaflet)
 library(leaflet.extras)
+library(metricsgraphics)
 
-africa_output <- function(input_country){
-  filtered <- africa_covid %>% 
-    dplyr::filter(Country_Region == input_country) %>% 
-    gather(key = Type, value = Number, Confirmed, Deaths, Recovered, Active)
-  
-  disp_date <- dplyr::filter(filtered, Type == 'Active', Number >= 1)
-  disp_date <- disp_date[1, 2]
-  
-  filtered_gg <- ggplot(data = filtered) + xlab("Date")  
-  
-  if (max(filtered$Number) > 20000){
-    filtered_gg <- filtered_gg + 
-      geom_smooth(aes(x = date, y = Number, color = Type),
-                  se = F, size = 0.75) +
-      geom_forecast(data = dplyr::filter(filtered, Type == "Active"), 
-                    aes(x = date, y = Number),
-                    color = "red", showgap = F, size = 0.75) +
-      scale_y_continuous(trans = 'log10', labels = comma) +
-      ylab("Number - Logistic Scale")
-  } else {
-    filtered_gg <- filtered_gg + 
-      geom_line(aes(x = date, y = Number, color = Type), size = 0.75) +
-      geom_forecast(data = dplyr::filter(filtered, Type == "Active"),
-                    aes(x = date, y = Number),
-                    color = "red", showgap = F, size = 0.75)
-  }
-  
-  filtered_gg +
-    ggtitle(paste0(input_country, " Covid Cases and Projections")) +
-    theme(legend.title.align=0.5) +
-    scale_x_date(date_breaks = "1 week",
-                 labels = date_format("%d-%b"),
-                 limits = (c(disp_date$date - 5, Sys.Date() + 10)))
-}
+### This output was used to show the projection of case growth for
+### the follow 10 days. However, testing is clearly so poor in most
+### countries that these projections have been meaningless and are 
+### being removed
+###
+# africa_output <- function(input_country){
+#   filtered <- africa_covid %>% 
+#     dplyr::filter(Country_Region == input_country) %>% 
+#     gather(key = Type, value = Number, Confirmed, Deaths, Recovered, Active)
+#   
+#   disp_date <- dplyr::filter(filtered, Type == 'Active', Number >= 1)
+#   disp_date <- disp_date[1, 2]
+#   
+#   filtered_gg <- ggplot(data = filtered) + xlab("Date")  
+#   
+#   if (max(filtered$Number) > 20000){
+#     filtered_gg <- filtered_gg + 
+#       geom_smooth(aes(x = date, y = Number, color = Type),
+#                   se = F, size = 0.75) +
+#       geom_forecast(data = dplyr::filter(filtered, Type == "Active"), 
+#                     aes(x = date, y = Number),
+#                     color = "red", showgap = F, size = 0.75) +
+#       scale_y_continuous(trans = 'log10', labels = comma) +
+#       ylab("Number - Logistic Scale")
+#   } else {
+#     filtered_gg <- filtered_gg + 
+#       geom_line(aes(x = date, y = Number, color = Type), size = 0.75) +
+#       geom_forecast(data = dplyr::filter(filtered, Type == "Active"),
+#                     aes(x = date, y = Number),
+#                     color = "red", showgap = F, size = 0.75)
+#   }
+#   
+#   filtered_gg +
+#     ggtitle(paste0(input_country, " Covid Cases and Projections")) +
+#     theme(legend.title.align=0.5) +
+#     scale_x_date(date_breaks = "1 week",
+#                  labels = date_format("%d-%b"),
+#                  limits = (c(disp_date$date - 5, Sys.Date() + 10)))
+# }
 
 africa_covid <- read_csv("https://raw.githubusercontent.com/Slushmier/covid-africa/master/Data/africa_covid.csv")
 africa_polys <- sf::st_read("https://raw.githubusercontent.com/Slushmier/covid-africa/master/Data/africaPolys.geojson")
-  
+
+africa_covid<- africa_covid %>%
+  group_by(Country_Region) %>% 
+  mutate(Confirmed_New = Confirmed - lag(Confirmed),
+         Deaths_New = Deaths - lag(Deaths)) %>% 
+  replace_na(list(Confirmed_New = 0, Deaths_New = 0))
+
 countries <- africa_covid %>% dplyr::distinct(Country_Region) %>% arrange()
 
 country_popup <- paste0("<strong>Covid-19 Data by Country</strong>",
@@ -70,48 +82,82 @@ country_popup <- paste0("<strong>Covid-19 Data by Country</strong>",
 
 ui <- fluidPage(title = "Covid-19 Cases in Africa",
 
-  titlePanel("Covid-19 Cases in Africa"),
+  titlePanel(h3("Covid-19 Cases in Africa", align = "center")),
   
-  sidebarLayout(
-    sidebarPanel(
-      
-      selectInput("countryinput",
-                  label = "Country for Projections:",
-                  selected = "Ethiopia",
-                  choices = countries),
-      p("Case data comes from",
-        tags$a(href = "https://github.com/CSSEGISandData/COVID-19",
-               "the Johns Hopkins University COVID-19 Github page."), 
-        " Case numbers are certainly lower than actual case numbers."),
-      br(),
-      p("Projections are done with the forecast package in R. The red bands 
-          are ten day projections for numbers of Covid-19 cases. The narrow, 
-          dark red bands are 95% confidence intervals, the wider, light red 
-          bands are 80% confidence intervals."),
-      br(),
-      p(tags$a(href = "https://github.com/Slushmier/covid-africa", 
-               "Here is the GitHub repository for this page."))
-    ),
-    
-    mainPanel(
-      tabsetPanel(type = "tabs",
-                  tabPanel("Africa Case Map", leafletOutput("africamap", height = "500px")),
-                  tabPanel("Country Case Projections", plotOutput("plot")),
-                  tabPanel("Country Case Data", tableOutput("table"))
-      )
-    )
+  fluidRow(
+    column(width = 6, leafletOutput("africamap",
+                                    height = "400px")),
+    column(width = 6,
+           tabsetPanel(type = "tabs",
+                       tabPanel("Cases Over Time", metricsgraphicsOutput("graph")),
+                       tabPanel("Country Case Data", tableOutput("table"))))
+  ),
+  fluidRow(
+    column(width = 3,
+           p("Case data comes from",
+             tags$a(href = "https://github.com/CSSEGISandData/COVID-19",
+                    "the Johns Hopkins University COVID-19 Github page."), 
+             " Case numbers are certainly lower than actual case numbers.")),
+    column(width = 3, p(tags$a(href = "https://github.com/Slushmier/covid-africa", 
+                               "Here is the GitHub repository for this page."))),
+    column(width = 6, align = "center",
+           tags$head(tags$style(type = "text/css", paste0(".selectize-dropdown {
+                                                     bottom: 100% !important;
+                                                     top:auto!important;
+                                                 }}"))),
+           selectInput("countryinput",
+                       label = "Country for Graphs",
+                       selected = "Ethiopia",
+                       choices = countries),
+           fluidRow(
+             column(width = 6,
+                    checkboxInput("newCases",
+                                  "Graph New Cases",
+                                  value = FALSE)),
+             column(width = 6,
+                    checkboxInput("log", "Log Scale", 
+                                  value = FALSE))
+           ))
   )
 )
-
-server <- function(input, output){
   
-  output$plot <- renderPlot({
-    africa_output(input$countryinput)
+server <- function(input, output){
+  output$graph <- renderMetricsgraphics({
+    filtered <- africa_covid %>% 
+      dplyr::filter(Country_Region == input$countryinput)
+    
+    firstdate <- dplyr::filter(filtered, Confirmed < 1 & Deaths < 1)
+    filtered <- dplyr::filter(filtered,
+                              date >= max(firstdate$date) - 2)
+    rm(firstdate)
+    
+    if(input$newCases){
+      filtered %>% 
+        mjs_plot(x = date, y = Confirmed_New, right = 50) %>% 
+        mjs_axis_x(xax_format = "date") %>% 
+        mjs_axis_y(y_scale_type = ifelse(input$log == TRUE, "log", "linear")) %>% 
+        mjs_add_line(Deaths_New) %>% 
+        mjs_labs(x = "Date", y = "Confirmed Covid-19 Cases") %>% 
+        mjs_add_legend(c("New Cases", "New Deaths"),
+                       inline = TRUE)
+    } else {
+      
+      filtered %>% 
+        mjs_plot(x = date, y = Confirmed, right = 40) %>% 
+        mjs_axis_x(xax_format = "date") %>% 
+        mjs_axis_y(y_scale_type = ifelse(input$log == TRUE, "log", "linear")) %>% 
+        mjs_add_line(Deaths) %>% 
+        mjs_labs(x = "Date", y = "Confirmed Covid-19 Cases") %>% 
+        mjs_add_legend(c("Cases", "Deaths"),
+                       inline = TRUE)}
   })
   
   output$table <- renderTable({
     dataout <- dplyr::filter(africa_covid,
-                            Country_Region == input$countryinput) %>% 
+                            Country_Region == input$countryinput) %>%
+      dplyr::filter(!Confirmed < 0 | !Deaths < 0) %>% 
+      dplyr::filter(!(Confirmed == 0 & Deaths == 0 & Recovered == 0)) %>% 
+      select(-Deaths_New, -Confirmed_New, -Active) %>% 
       arrange(desc(date))
     dataout$date <- as.character(dataout$date)
     dataout
@@ -133,7 +179,7 @@ server <- function(input, output){
                   popup = country_popup,
                   label = ~paste0(name_long, ": ", Confirmed, " confirmed cases."),
                   labelOptions = labelOptions(direction = "auto")) %>% 
-      addLegend("topright", pal = pal_map, values = ~case_rate,
+      addLegend("bottomleft", pal = pal_map, values = ~case_rate,
                 title = "Confirmed Cases Per <br>1 Million People",
                 opacity = 0.5,
                 labFormat = function(type, cuts, p) {
@@ -147,7 +193,7 @@ server <- function(input, output){
                 }
       ) %>%
       addFullscreenControl() %>% 
-      setView(lng = 16.942, lat = 1.261, zoom = 3)
+      setView(lng = 16.942, lat = 1.261, zoom = 2)
   })
 }
 
