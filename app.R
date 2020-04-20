@@ -7,46 +7,6 @@ library(leaflet)
 library(leaflet.extras)
 library(metricsgraphics)
 
-### This output was used to show the projection of case growth for
-### the follow 10 days. However, testing is clearly so poor in most
-### countries that these projections have been meaningless and are 
-### being removed
-###
-# africa_output <- function(input_country){
-#   filtered <- africa_covid %>% 
-#     dplyr::filter(Country_Region == input_country) %>% 
-#     gather(key = Type, value = Number, Confirmed, Deaths, Recovered, Active)
-#   
-#   disp_date <- dplyr::filter(filtered, Type == 'Active', Number >= 1)
-#   disp_date <- disp_date[1, 2]
-#   
-#   filtered_gg <- ggplot(data = filtered) + xlab("Date")  
-#   
-#   if (max(filtered$Number) > 20000){
-#     filtered_gg <- filtered_gg + 
-#       geom_smooth(aes(x = date, y = Number, color = Type),
-#                   se = F, size = 0.75) +
-#       geom_forecast(data = dplyr::filter(filtered, Type == "Active"), 
-#                     aes(x = date, y = Number),
-#                     color = "red", showgap = F, size = 0.75) +
-#       scale_y_continuous(trans = 'log10', labels = comma) +
-#       ylab("Number - Logistic Scale")
-#   } else {
-#     filtered_gg <- filtered_gg + 
-#       geom_line(aes(x = date, y = Number, color = Type), size = 0.75) +
-#       geom_forecast(data = dplyr::filter(filtered, Type == "Active"),
-#                     aes(x = date, y = Number),
-#                     color = "red", showgap = F, size = 0.75)
-#   }
-#   
-#   filtered_gg +
-#     ggtitle(paste0(input_country, " Covid Cases and Projections")) +
-#     theme(legend.title.align=0.5) +
-#     scale_x_date(date_breaks = "1 week",
-#                  labels = date_format("%d-%b"),
-#                  limits = (c(disp_date$date - 5, Sys.Date() + 10)))
-# }
-
 africa_covid <- read_csv("https://raw.githubusercontent.com/Slushmier/covid-africa/master/Data/africa_covid.csv")
 africa_polys <- sf::st_read("https://raw.githubusercontent.com/Slushmier/covid-africa/master/Data/africaPolys.geojson")
 
